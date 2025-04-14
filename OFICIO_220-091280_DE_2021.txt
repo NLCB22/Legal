@@ -1,0 +1,173 @@
+OFICIO 220-091280 DEL 8 JULIO DE 2021
+
+ASUNTO: CIRCULAR EXTERNA 100-000016 DE 2020 - PROCEDIMIENTOS PARA
+IMPLEMENTAR SAGRILAFT
+
+Me refiero a su escrito radicado como se anuncia en la referencia mediante el cual, eleva
+una consulta relacionada con la Circular Externa 100-000016 del 24 de diciembre de 2020,
+que modificó el Capítulo X de la Circular Externa 100-000005 de 2017 de la
+Superintendencia de Sociedades.
+La consulta fue planteada en los siguientes términos:
+“Por las consideraciones y fundamentos expuestos, solicito respetuosamente a la
+Delegatura competente se me puede brindar todos los argumentos y aclaraciones
+a que haya lugar respecto al procedimiento, instrucciones y documentos a
+implementar por parte de la Empresa obligada al SAGRILAFT previo a la realización
+y/o perfeccionamiento de ventas y transacciones con personas naturales/ jurídicas
+cuya forma y medio de pago se pacte a crédito o de contado.”
+Previamente a responder sus inquietudes, debe señalarse que en atención al derecho de
+petición en la modalidad de consulta, la Superintendencia de Sociedades con fundamento
+en los artículos 14 y 28 del Código de Procedimiento Administrativo y de lo Contencioso
+Administrativo, emite conceptos de carácter general y abstracto sobre las materias a su
+cargo, y sus respuestas a las consultas no son vinculantes ni comprometen la
+responsabilidad de la Entidad, por lo que, a pesar de que su consulta se eleva exponiendo
+un caso particular, la respuesta de esta Oficina debe entenderse que se refiere a
+situaciones generales que se le asemejen.
+También es procedente informarle, para efecto del conteo de términos en la atención de
+su consulta, que mediante el artículo 5º de la parte resolutiva del Decreto Legislativo 491
+del 28 de marzo de 2020, expedido con ocasión de la emergencia sanitaria derivada del
+Coronavirus COVID-19 y mientras ésta se mantiene, el Gobierno Nacional amplió los
+términos para que entidades como esta Superintendencia atiendan peticiones de consulta
+en treinta y cinco (35) días.
+Advertido lo anterior, éste Despacho procede a efectuar las siguientes consideraciones de
+índole general:
+
+Las competencias que le asisten a esta Entidad, en relación con el proceso de prevención
+de Lavado de Activos y Financiación del Terrorismo, proceden de la Ley 526 de 1999
+modificada por la Leyes 1121 de 2006, 1621 de 2013 y 1762 de 2015, que a su turno
+establece la creación de la Unidad de Información y Análisis Financiero-UIAF y se dictan
+normas para la prevención, detección, investigación y sanción del lavado de activos y la
+financiación del terrorismo.
+Así las cosas, el artículo 7°, numeral 28, del Decreto 1736 de 2020, dispuso que es función
+de la Superintendencia de Sociedades:
+“Instruir, en la forma que lo determine, a entidades sujetas a su supervisión sobre
+las medidas que deben adoptar para promover la transparencia y ética empresarial
+en sus prácticas de negocios para contar con mecanismos internos de prevención
+de actos de corrupción, al igual que mecanismos de gestión para la prevención del
+riesgo de lavado de activos y del financiamiento del terrorismo, y de financiamiento
+de la proliferación de armas de destrucción masiva por parte de sus supervisados.”
+Conforme a lo expuesto, la Superintendencia de Sociedades, expidió la Circular Externa
+No. 100-000016 de 20201, modificó el Capítulo X de su Circular Básica Jurídica (Circular
+Externa No. 100-000005 del 22 de noviembre de 2017). De esta manera, el objetivo
+principal de la modificación del Capítulo X de la Circular Básica Jurídica es profundizar el
+enfoque basado en riesgos tanto en la supervisión de esta Entidad como en la creación
+de políticas y matrices por parte de las sociedades comerciales, sucursales de sociedades
+extranjeras y empresas unipersonales, obligadas al cumplimiento del régimen de
+AUTOCONTROL Y GESTIÓN DEL RIESGO INTEGRAL LA/FT/FPADM Y REPORTE DE
+OPERACIONES SOSPECHOSAS A LA UIAF, y en la identificación, segmentación,
+calificación, individualización, control y actualización de los factores de riesgos y los
+riesgos asociados a la probabilidad de que éstas puedan ser usadas o puedan prestarse
+como medio en actividades relacionadas con el lavado de activos, el financiamiento del
+terrorismo y el financiamiento de la proliferación de armas destrucción masiva.
+De esta manera, el numeral 5. del Anexo de la Circular Externa 100-000016 del 24 de
+diciembre de 2020, establece lo siguiente:
+“5. Sistema de Autocontrol y Gestión del Riesgo LA/FT/FPADM – SAGRILAFT.
+Las Empresas Obligadas, mencionadas en los numerales 4.1. y 4.2. del presente
+Capítulo X, deberán poner en marcha un SAGRILAFT, en los términos previstos en
+este Capítulo X.
+El SAGRILAFT deberá establecer, entre otros elementos, una Política
+LA/FT/FPADM y un manual de procedimientos de gestión del Riesgo
+1 Modificada parcialmente por la Circular Externa No. 100-000004 de 2021
+
+LA/FT/FPADM. El SAGRILAFT deberá tener en cuenta los riesgos propios de la
+Empresa Obligada y la materialidad, relacionados con LA/FT/FPADM, para lo cual
+se debe analizar el tipo de negocio, la operación, el tamaño, las Áreas Geográficas
+donde opera y demás características particulares. Para los anteriores fines, las
+Empresas Obligadas deberán contar con una Matriz de Riesgo LA/FT/FPADM u
+otro mecanismo equivalente de evaluación del Riesgo LA/FT/FPADM que les
+permita medir y auditar su evolución.
+El SAGRILAFT debe identificar y manejar los Riesgos LA/FT/FPADM de cada
+Empresa Obligada, con la premisa que a mayor riesgo se debe tener mayor control.
+5.1. Elementos del SAGRILAFT
+La puesta en marcha del SAGRILAFT requiere del cumplimiento efectivo de la
+Política LA/FT/FPADM y los procedimientos de diseño, aprobación, seguimiento,
+divulgación y capacitación incluidos en el manual, en los términos descritos más
+adelante, y debe traducirse en una regla de conducta que oriente la actuación de
+la Empresa, sus empleados, asociados, administradores y demás vinculados o
+partes interesadas.
+Dentro de los elementos del SAGRILAFT se incluyen:
+5.1.1. Diseño y aprobación El diseño del SAGRILAFT
+El diseño del SAGRILAFT estará a cargo de la Empresa Obligada, para lo cual
+deberá tener en cuenta la materialidad, las características propias de la Empresa y
+su actividad, así como la identificación de los Factores de Riesgo LA/FT/FPADM
+(Matriz de Riesgo LA/FT/FPADM u otro mecanismo de evaluación,
+individualización, identificación y segmentación del Riesgo LA/FT/FPADM). El
+representante legal y la junta directiva, o el máximo órgano social cuando aquella
+no existe, deberán disponer de las medidas operativas, económicas, físicas,
+tecnológicas y de recursos que sean necesarias para que el Oficial de
+Cumplimiento pueda desarrollar sus labores de manera adecuada.
+La aprobación del SAGRILAFT será responsabilidad de la junta directiva en las
+Empresas que cuenten con este órgano, o del máximo órgano social en los demás
+casos. El proyecto de SAGRILAFT deberá ser presentado conjuntamente por el
+representante legal y el Oficial de Cumplimiento. La aprobación deberá constar en
+el acta de la reunión correspondiente.
+A su vez, dentro de la Circular Externa 100-000016 del 24 de diciembre de 2020, se
+establece que el SAGRILAFT deberá contemplar, como mínimo, las siguientes etapas
+para identificar, prevenir, controlar y gestionar el Riesgo de LA/FT/FPADM y las
+consecuencias de su materialización:
+
+“(…)
+5.2.1. Identificación del Riesgo LA/FT/FPADM:
+El SAGRILAFT debe permitirle a las Empresas Obligadas identificar los Factores
+de Riesgo LA/FT/FPADM, así como los riesgos asociados con éste.
+Para identificar el Riesgo LA/FT/FPADM, las Empresas Obligadas deben, como
+mínimo:
+a. Clasificar los Factores de Riesgo LA/FT/FPADM de conformidad con la actividad
+económica de la Empresa Obligada y su materialidad.
+b. Establecer, una vez sean identificados, individualizados, segmentados y
+clasificados los Factores de Riesgo LA/FT/FPADM, las metodologías para
+identificar el riesgo específico de LA/FT/FPADM que puede llegar a enfrentar la
+Empresa Obligada, así como otros posibles riesgos asociados. Con base en esa
+clasificación y segmentación, se deben señalar, identificar e individualizar los
+riesgos.
+c. Establecer, una vez clasificados y segmentados los Factores de Riesgo
+LA/FT/FPADM, las condiciones de tiempo, modo y lugar, así como la relevancia y
+la prioridad con que se deben ejecutar las medidas de Debida Diligencia.
+d. Disponer e implementar los mecanismos y medidas que le permitan un adecuado
+conocimiento, identificación e individualización de los Factores de Riesgo
+LA/FT/FPADM que le resultan aplicables.
+(…)”.
+En ese sentido, el numeral 5.3. de la Circular Externa 100-000016 del 24 de diciembre de
+2020, acota lo siguiente frente a los procedimientos de debida diligencia:
+“5.3. Procedimientos de Debida Diligencia y Debida Diligencia Intensificada
+Uno de los principales instrumentos para prevenir y controlar los Riesgos
+LA/FT/FPADM a los que se encuentra expuesta una Empresa Obligada, es la
+aplicación de medidas de Debida Diligencia. (…)
+Cada Empresa Obligada debe aplicar las medidas de Debida Diligencia mínimas
+que le correspondan conforme a lo establecido en este numeral. Para determinar
+su alcance, las Empresas Obligadas deben utilizar un enfoque basado en el riesgo
+de acuerdo con la materialidad y sus características propias, teniendo en cuenta
+las operaciones, Productos y contratos que lleve a cabo o pretenda desarrollar, así
+como sus Contrapartes, países o Áreas Geográficas de operación y canales y
+demás características particulares. El alcance del proceso de Debida Diligencia
+debe ser el apropiado para la naturaleza y tamaño del negocio.”
+
+Con base en lo expuesto, es claro que las empresas obligadas tienen que implementar el
+SAGRILAFT, el cual deberá estar construido con base en las circunstancias específicas
+de cada empresa y en los riesgos propios de su operación, como puede ser el caso de las
+transacciones en las que se pacte el pago de contado o a crédito, y deberán contar con
+mecanismos para evaluar, monitorear, controlar tales riesgos.
+Con el fin de instruir y guiar a las empresas obligadas, la Superintendencia de Sociedades
+ha dispuesto en su Página WEB, diversos documentos de carácter pedagógico sobre la
+prevención del lavado de activos y financiación del terrorismo LA/FT. Tales guías fueron
+elaboradas por el Grupo de Cumplimiento de Buenas Prácticas Empresariales adscrito a
+la Delegatura de Asuntos Económicos y Societarios. Entre otros, se encuentran los
+siguientes documentos:
+- Guía sobre Nuevos Riesgos en el Lavado de Activos y la Financiación del Terrorismo
+asociados al COVID-19, la cual puede ser consultado en el siguiente enlace:
+https://www.supersociedades.gov.co/Noticias/Publicaciones/Revistas/2020/Guiaorientacion-LAFTV-Covid.pdf
+- Preguntas Frecuentes Capítulo X Circular Básica de la Superintendencia de Sociedades
+Gestión del riesgo de lavado de activos y financiación del terrorismo, la cual puede ser
+consultado en el siguiente enlace:
+https://www.supersociedades.gov.co/delegatura_aec/informes_publicaciones/lavado_acti
+vos/Documents/EE-%20Preguntas%20frecuentes%20LA%20FT%202017%20III%2002.pdf
+Por último, le informamos que en la Página WEB la Superintendencia de Sociedades se
+encuentra disponible un Curso Virtual sobre la Lucha Contra el Lavado de Activos, la
+Financiación del Terrorismo y el Financiamiento de la Proliferación de Armas de
+Destrucción Masiva - LA/FT/FPADM, disponible en el siguiente link:
+https://www.supersociedades.gov.co/delegatura_aec/Paginas/index-LAFT.aspx
+En los anteriores términos su solicitud ha sido atendida en el plazo y con los efectos
+descritos en el artículo 28 del Código de Procedimiento Administrativo y de lo Contencioso,
+no sin antes señalar que puede consultarse en la Página Web de la Entidad, la
+normatividad, los conceptos jurídicos alusivos con el tema u otro de su interés.
+
+
