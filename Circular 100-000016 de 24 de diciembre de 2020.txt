@@ -1,0 +1,1589 @@
+Digitally signed by
+JUAN PABLO
+LIEVANO
+VEGALARA
+Date: 2020.12.24
+14:27:11 -05:00
+Reason: Firma Digital
+Location: Colombia
+
+CIRCULAR EXTERNA
+SUPERINTENDENCIA DE SOCIEDADES
+Señores
+Representantes legales, Contadores, Revisores Fiscales y Liquidadores de sociedades
+comerciales, sucursales de sociedades extranjeras y empresas unipersonales
+Referencia:
+
+Modificación Integral al Capítulo X de la Circular Básica Jurídica
+de 2017
+
+Apreciados señores:
+Con el fin de actualizar la normatividad a las recomendaciones de organismos
+internacionales, a la política general de supervisión de la Superintendencia de Sociedades y
+a la coyuntura actual, es prioritario para esta Entidad modificar el Capítulo X de su Circular
+Básica Jurídica (Circular Externa No. 100-000005 del 22 de noviembre de 2017).
+La modificación al mencionado Capítulo X tiene como objetivo principal profundizar el
+enfoque basado en riesgos tanto en la supervisión de esta Entidad como en la creación de
+políticas y matrices por parte de las sociedades comerciales, sucursales de sociedades
+extranjeras y empresas unipersonales, obligadas al cumplimiento del régimen de
+AUTOCONTROL Y GESTIÓN DEL RIESGO INTEGRAL LA/FT/FPADM Y REPORTE DE
+OPERACIONES SOSPECHOSAS A LA UIAF, y en la identificación, segmentación,
+calificación, individualización, control y actualización de los factores de riesgos y los riesgos
+asociados a la probabilidad de que éstas puedan ser usadas o puedan prestarse como
+medio en actividades relacionadas con el lavado de activos, el financiamiento del terrorismo
+y el financiamiento de la proliferación de armas destrucción masiva.
+Teniendo en cuenta lo anterior, con fundamento en las facultades legales que le
+corresponden a la Superintendencia de Sociedades y, en especial en las previstas en el
+numeral 34 del artículo 8° del Decreto 1736 de 2020, en virtud del presente acto
+administrativo, se modifica integralmente el Capítulo X de la Circular Externa No. 100000005 del 22 de noviembre de 2017 (Ver ANEXO 1).
+Esta Circular Externa, rige a partir de la fecha de su publicación.
+Publíquese, comuníquese y cúmplase,
+
+2/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+JUAN PABLO LIEVANO VEGALARA
+Superintendente de Sociedades
+ANEXO 1
+CAPÍTULO X - AUTOCONTROL Y GESTIÓN DEL RIESGO INTEGRAL LA/FT/FPADM Y
+REPORTE DE OPERACIONES SOSPECHOSAS A LA UIAF
+1. Consideraciones generales
+La Superintendencia de Sociedades, en cumplimiento de su política de supervisión con
+enfoque basado en riesgos, ha identificado que una de las contingencias a las que están
+expuestas las entidades sujetas a su inspección, vigilancia y control, radica en la
+probabilidad de ser usadas o prestarse como medio en actividades de lavado de activos,
+financiamiento del terrorismo y financiamiento de la proliferación de armas destrucción
+masiva.
+El lavado de activos, el financiamiento del terrorismo y el financiamiento de la proliferación
+de armas de destrucción masiva son fenómenos delictivos que generan consecuencias
+negativas para la economía del país y para las empresas del sector real. Pueden traducirse
+en el acaecimiento de riesgos operacionales, legales, reputacionales y de contagio, entre
+otros. Esta situación, puede afectar su buen nombre, competitividad, productividad y
+perdurabilidad.
+Para las entidades supervisadas por la Superintendencia de Sociedades, resulta
+imprescindible, en los términos del presente Capítulo X, implementar un sistema de
+autocontrol y gestión del riesgo integral de lavado de activos y de financiamiento del
+terrorismo. En ese sentido, es importante seguir las recomendaciones del Grupo de Acción
+Financiera Internacional y las convenciones internacionales sobre la materia, entre otras,
+adoptadas por Colombia mediante las leyes que se exponen más adelante.
+Con base en las normas, estándares internacionales y lineamentos expuestos más adelante,
+las Empresas Obligadas (término que se define posteriormente) sujetas a la aplicación de
+este Capítulo X deberán realizar un análisis con un enfoque basado en el riesgo y su
+materialidad1 de acuerdo con sus características propias, teniendo en cuenta las
+operaciones, productos, servicios y contratos que lleve a cabo o pretenda desarrollar, así
+como sus contrapartes, y de los beneficiarios finales de estas, al igual que los países o
+áreas geográficas de operación y canales y demás características particulares.
+2. Definiciones
+Para efectos del presente Capítulo X, los siguientes términos deben entenderse de acuerdo
+con las definiciones que a continuación se establecen, independientemente de que ellos se
+utilicen en singular o en plural:
+
+1
+
+Según GAFI, la materialidad está relacionada con el tamaño y la composición general de la economía y del sector en el cual
+se desarrolla la actividad de cada empresa.
+
+3/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+Activo Virtual: es la representación digital de valor que se puede comercializar o
+transferir digitalmente y se puede utilizar para pagos o inversiones. Los activos virtuales
+no incluyen representaciones digitales de moneda fiat, valores y otros Activos financieros
+que ya están cubiertos en otras partes de las Recomendaciones GAFI2.
+Activos: es un recurso económico presente controlado por la Empresa como resultado
+de sucesos pasados.
+APNFD: son las actividades y profesiones no financieras designadas de Empresas, que
+para los efectos de la presente circular son los siguientes: i) sector de agentes
+inmobiliarios; ii) sector de comercialización de metales preciosos y piedras preciosas; iii)
+sector de servicios contables; y iv) sector de servicios jurídicos.
+Área Geográfica: es la zona del territorio en donde la Empresa desarrolla su actividad.
+Beneficiario Final: es la(s) persona(s) natural(es) que finalmente posee(n) o controla(n) a
+un cliente o a la persona natural en cuyo nombre se realiza una transacción. Incluye
+también a la(s) persona(s) que ejerzan el control efectivo y/o final, directa o
+indirectamente, sobre una persona jurídica u otra estructura sin personería jurídica. Son
+Beneficiarios Finales de la persona jurídica los siguientes:
+a. Persona natural que, actuando individual o conjuntamente, ejerza control sobre la
+persona jurídica, en los términos del artículo 260 y siguientes del Código de
+Comercio; o
+b. Persona natural que, actuando individual o conjuntamente, sea titular, directa o
+indirectamente, del cinco por ciento (5%) o más del capital o los derechos de voto
+de la persona jurídica, y/o se beneficie en un cinco por ciento (5%) o más de los
+rendimientos, utilidades o Activos de la persona jurídica;
+c. Cuando no se identifique alguna persona natural en los numerales 1) y 2), la
+persona natural que ostente el cargo de representante legal, salvo que exista una
+persona natural que ostente una mayor autoridad en relación con las funciones de
+gestión o dirección de la persona jurídica.
+Son Beneficiarios Finales de un contrato fiduciario, de una estructura sin personería
+jurídica o de una estructura jurídica similar, las siguientes personas naturales que
+ostenten la calidad de:
+i.
+Fiduciante(s), fideicomitente(s), constituyente(s) o puesto similar o equivalente;
+ii.
+Comité fiduciario, comité financiero o puesto similar o equivalente;
+iii.
+Fideicomisario(s), beneficiario(s) o beneficiarios condicionados; y
+iv.
+Cualquier otra persona natural que ejerza el control efectivo y/o final, o que
+tenga derecho a gozar y/o disponer de los Activos, beneficios, resultados o
+utilidades.
+Contraparte: es cualquier persona natural o jurídica con la que la Empresa tenga
+vínculos comerciales, de negocios, contractuales o jurídicos de cualquier orden. Entre
+otros, son contrapartes los asociados, empleados, clientes, contratistas y proveedores
+de Productos de la Empresa.
+Debida Diligencia: es el proceso mediante el cual la Empresa adopta medidas para el
+conocimiento de la Contraparte, de su negocio, operaciones, y Productos y el volumen
+de sus transacciones, que se desarrolla establecido en el numeral 5.3.1 de este Capítulo
+X.
+Debida Diligencia Intensificada: es el proceso mediante el cual la Empresa adopta
+medidas adicionales y con mayor intensidad para el conocimiento de la Contraparte, de
+su negocio, operaciones, Productos y el volumen de sus transacciones, conforme se
+establece en el numeral 5.3.2 de este Capítulo X.
+Empresa: es la sociedad comercial, empresa unipersonal o sucursal de sociedad
+extranjera supervisada por la Superintendencia de Sociedades.
+Empresa Obligada: es la Empresa que debe dar cumplimiento a lo previsto en el
+presente Capítulo X y que se encuentran listadas en el numeral 4 de dicho capítulo.
+Financiamiento del Terrorismo o FT: es el delito regulado en el artículo 345 del Código
+Penal colombiano (o la norma que lo sustituya o modifique).
+Financiamiento de la Proliferación de Armas de Destrucción Masiva o FPADM: es todo
+acto que provea fondos o utilice servicios financieros, en todo o en parte, para la
+2
+
+Definición contenida como anexo, nota interpretativa de la Recomendación GAFI No. 15 Nuevas Tecnologías de GAFI,
+disponible en: http://gafilat.info/index.php/es/biblioteca-virtual/3486-recomendaciones-y-metodologia-act-jul-19-publico
+
+4/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+fabricación, adquisición, posesión, desarrollo, exportación, trasiego de material,
+fraccionamiento, transporte, trasferencia, deposito o uso dual para propósitos ilegítimos
+en contravención de las leyes nacionales u obligaciones internacionales, cuando esto
+último sea aplicable3.
+Factores de Riesgo LA/FT/FPADM: son los posibles elementos o causas generadoras
+del Riesgo de LA/FT/FPADM para cualquier Empresa Obligada. La Empresa Obligada
+deberá identificarlos teniendo en cuenta a las Contrapartes, los Productos, las
+actividades, los canales y las jurisdicciones, entre otros.
+GAFI: es el Grupo de Acción Financiera Internacional. Grupo intergubernamental creado
+en 1989 con el fin de expedir estándares a los países para la lucha contra el LA, el FT y
+el FPADM.
+GAFILAT: es el Grupo de Acción Financiera de Latinoamérica, organismo de base
+regional del GAFI, creado en el año 2000 y en el cual hace parte Colombia.
+Ingresos Totales: son todos los ingresos reconocidos en el estado del resultado del
+periodo, como principal fuente de información sobre la actividad financiera de una
+Empresa para el periodo sobre el que se informa. De acuerdo con los criterios de
+revelación estos incluyen: Ingresos de Actividades Ordinarias, otros ingresos, ganancias
+(otras partidas que satisfacen la definición de ingresos pero que no son Ingresos de
+Actividades Ordinarias) e ingresos financieros.
+Ingresos de Actividades Ordinarias: Son aquellos que se generan en el curso de las
+actividades principales del negocio de la Empresa.
+LA/FT/FPADM: para efectos de este Capítulo X, significa Lavado de Activos,
+Financiamiento del Terrorismo y Financiamiento de la Proliferación de Armas de
+Destrucción Masiva.
+Lavado de Activos o LA: es el delito tipificado en el artículo 323 del Código Penal
+colombiano (o la norma que lo sustituya o modifique).
+Listas Vinculantes: son aquellas listas de personas y entidades asociadas con
+organizaciones terroristas que son vinculantes para Colombia bajo la legislación
+colombiana (artículo 20 de la Ley 1121 de 2006) y conforme al derecho internacional,
+incluyendo pero sin limitarse a las Resoluciones 1267 de 1999, 1373 de 2001, 1718 y
+1737 de 2006, 1988 y 1989 de 2011, y 2178 de 2014 del Consejo de Seguridad de las
+Naciones Unidas, y todas aquellas que le sucedan, relacionen y complementen, y
+cualquiera otra lista vinculante para Colombia (como las listas de terroristas de los
+Estados Unidos de América, la lista de la Unión Europea de Organizaciones Terroristas y
+la lista de la Unión Europea de Personas Catalogadas como Terroristas). La
+Superintendencia de Sociedades mantendrá en su página web un listado de las Listas
+Vinculantes para Colombia como una guía, sin que estas sean taxativas.
+Matriz de Riesgo LA/FT/FPADM: es uno de los instrumentos que le permite a una
+Empresa identificar, individualizar, segmentar, evaluar y controlar los Riesgos
+LA/FT/FPADM a los que se podría ver expuesta, conforme a los Factores de Riesgo
+LA/FT/FPADM identificados.
+Medidas Razonables: son las acciones suficientes, apropiadas y medibles en calidad y
+cantidad para mitigar el Riesgo LA/FT/FPADM, teniendo en cuenta los riesgos propios
+de la Empresa Obligada y su materialidad.
+Oficial de Cumplimiento: es la persona natural designada4 por la Empresa Obligada que
+está encargada de promover, desarrollar y velar por el cumplimiento de los
+procedimientos específicos de prevención, actualización y mitigación del Riesgo
+LA/FT/FPADM, y cuyo perfil se señala más adelante, en este Capítulo X.
+Operación Inusual: es la operación cuya cuantía o características no guardan relación
+con la actividad económica ordinaria o normal de la Empresa Obligada o, que por su
+número, cantidad o características no se enmarca dentro de las pautas de normalidad o
+prácticas ordinarias de los negocios en un sector, en una industria o con una clase de
+Contraparte.
+Operación Sospechosa: es la Operación Inusual que, además, de acuerdo con los usos
+y costumbres de la actividad de que se trate, no ha podido ser razonablemente
+3
+
+https://www.uiaf.gov.co/sistema_nacional_ala_cft/lavado_activos_financiacion_29271/financiacion_proliferacion_armas_30528
+La persona natural podrá ser vinculada a través de un contrato laboral o un contrato de prestación de servicios y también
+podrá estar asociada a una persona jurídica que ofrezca este tipo de servicios.
+4
+
+5/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+justificada. Este tipo de operaciones incluye las operaciones intentadas o rechazadas
+que contengan características que les otorguen el carácter de sospechosas.
+PEP: significa personas expuestas políticamente, es decir, son los servidores públicos
+de cualquier sistema de nomenclatura y clasificación de empleos de la administración
+pública nacional y territorial, cuando en los cargos que ocupen, tengan en las funciones
+del área a la que pertenecen o en las de la ficha del empleo que ocupan, bajo su
+responsabilidad directa o por delegación, la dirección general, de formulación de
+políticas institucionales y de adopción de planes, programas y proyectos, el manejo
+directo de bienes, dineros o valores del Estado. Estos pueden ser a través de ordenación
+de gasto, contratación pública, gerencia de proyectos de inversión, pagos, liquidaciones,
+administración de bienes muebles e inmuebles. Incluye también a las PEP Extranjeras y
+las PEP de Organizaciones Internacionales.
+PEP de Organizaciones Internacionales: son aquellas personas naturales que ejercen
+funciones directivas en una organización internacional, tales como la Organización de
+Naciones Unidas, Organización para la Cooperación y el Desarrollo Económicos, el
+Fondo de las Naciones Unidas para la Infancia (UNICEF) y la Organización de Estados
+Americanos, entre otros (vr.gr. directores, subdirectores, miembros de junta directiva o
+cualquier persona que ejerza una función equivalente).
+PEP Extranjeras: son aquellas personas naturales que desempeñan funciones públicas
+prominentes y destacadas en otro país. En especial, las siguientes personas: (i) jefes de
+estado, jefes de gobierno, ministros, subsecretarios o secretarios de estado; (ii)
+congresistas o parlamentarios; (iii) miembros de tribunales supremos, tribunales
+constitucionales u otras altas instancias judiciales cuyas decisiones no admitan
+normalmente recurso, salvo en circunstancias excepcionales; (iv) miembros de tribunales
+o de las juntas directivas de bancos centrales; (v) embajadores; (vi) encargados de
+negocios; (vii) altos funcionarios de las fuerzas armadas; (viii) miembros de los órganos
+administrativos, de gestión o de supervisión de empresas de propiedad estatal; (ix)
+miembros de familias reales reinantes; (x) dirigentes destacados de partidos o
+movimientos políticos; y (xi) representantes legales, directores, subdirectores, miembros
+de la alta gerencia y miembros de la Junta de una organización internacional (vr.gr. jefes
+de estado, políticos, funcionarios gubernamentales, judiciales o militares de alta jerarquía
+y altos ejecutivos de empresas estatales).
+Política LA/FT/FPADM: son los lineamientos generales que debe adoptar cada Empresa
+Obligada para que esté en condiciones de identificar, evaluar, prevenir y mitigar el
+Riesgo LA/FT/FPADM y los riesgos asociados. Cada una de las etapas y elementos del
+SAGRILAFT debe contar con unas políticas claras y efectivamente aplicables. Las
+políticas deben incorporarse en el manual de procedimientos que oriente la actuación de
+los funcionarios de la Empresa para el funcionamiento del SAGRILAFT y establecer
+consecuencias y las sanciones frente a su inobservancia.
+Productos: son los bienes y servicios que produce, comercializa, transforma u ofrece la
+Empresa o adquiere de un tercero.
+Recomendaciones GAFI: son las 40 recomendaciones diseñadas por el GAFI con sus
+notas interpretativas, para prevenir el Riesgo de LA/FT/FPADM, las cuales fueron objeto
+de revisión en febrero de 2012 y de actualización en junio de 2019. El resultado de esta
+revisión es el documento den
+Contra el Lavado de Activos, el Financiamiento del Terrorismo y el Financiamiento de la
+5.
+
+Régimen de Autocontrol y Gestión del Riesgo Integral LA/FT/FPADM: es el SAGRILAFT
+y el Régimen de Medidas Mínimas, en conjunto.
+Régimen de Medidas Mínimas: son las obligaciones en materia de autogestión y control
+del Riesgo LA/FT/FPADM, previstas en el numeral 8 del presente Capítulo X.
+Riesgo LA/FT/FPADM: es la posibilidad de pérdida o daño que puede sufrir una
+Empresa por su propensión a ser utilizada directamente o a través de sus operaciones
+como instrumento para el Lavado de Activos y/o canalización de recursos hacia la
+realización de actividades terroristas o el Financiamiento de la Proliferación de Armas de
+Destrucción Masiva, o cuando se pretenda el ocultamiento de Activos provenientes de
+dichas actividades. Las contingencias inherentes al LA/FT/FPADM se materializan a
+5
+
+Publicación disponible en https://www.fatf-gafi.org/.
+
+6/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+través de riesgos tales como el Riesgo de Contagio, Riesgo Legal, Riesgo Operativo,
+Riesgo Reputacional y los demás a los que se expone la Empresa, con el consecuente
+efecto económico negativo que ello puede representar para su estabilidad financiera,
+cuando es utilizada para tales actividades.
+Riesgo de Contagio: Es la posibilidad de pérdida que una Empresa puede sufrir, directa
+o indirectamente, por una acción o experiencia de una Contraparte.
+Riesgo Legal: es la posibilidad de pérdida en que incurre una Empresa al ser sancionada
+u obligada a indemnizar daños como resultado del incumplimiento de normas o
+regulaciones y obligaciones contractuales. Surge también como consecuencia de fallas
+en los contratos y transacciones, derivadas de actuaciones malintencionadas,
+negligencia o actos involuntarios que afectan la formalización o ejecución de contratos o
+transacciones.
+Riesgo Operativo: es la posibilidad de incurrir en pérdidas por deficiencias, fallas o
+inadecuaciones, en el recurso humano, los procesos, la tecnología, la infraestructura o
+por la ocurrencia de acontecimientos externos. Esta definición incluye el Riesgo Legal y
+el Riesgo Reputacional, asociados a tales factores.
+Riesgo Reputacional: es la posibilidad de pérdida en que incurre una Empresa por
+desprestigio, mala imagen, publicidad negativa, cierta o no, respecto de la organización y
+sus prácticas de negocios, que cause pérdida de clientes, disminución de ingresos o
+procesos judiciales.
+Riesgo Inherente: es el nivel de riesgo propio de la actividad, sin tener en cuenta el
+efecto de los controles.
+Riesgo Residual: es el nivel resultante del riesgo después de aplicar los controles.
+ROS: Es el reporte de Operaciones Sospechosas. Es aquella operación que por su
+número, cantidad o características no se enmarca dentro del sistema y prácticas
+normales del negocio, de una industria o de un sector determinado y, además que de
+acuerdo con los usos y costumbres de la actividad que se trate, no ha podido ser
+razonablemente justificada.
+SIREL: es el sistema de reporte en línea administrado por la UIAF. Es una herramienta
+WEB que permite a las entidades reportantes cargar y/o reportar en línea la información
+de las obligaciones establecidas en la normativa de cada sector, de forma eficiente y
+segura, disponible las 24 horas del día, 7 días a la semana y 365 días al año6.
+SAGRILAFT: es el sistema de autocontrol y gestión del riesgo integral de LA/FT/FPADM
+establecido en este Capítulo X.
+SMLMV: es el salario mínimo legal mensual vigente.
+UIAF: es la Unidad de Información y Análisis Financiero, la cual es la unidad de
+inteligencia financiera de Colombia, con las funciones de intervenir en la economía para
+prevenir y detectar el LA/FT/FPADM.
+3. Marco normativo
+3.1.
+
+Normas y Estándares Internacionales sobre LA/FT/FPADM
+
+Colombia ha ratificado, entre otras, las siguientes convenciones y convenios de Naciones
+Unidas, con el fin de enfrentar las actividades delictivas relacionadas con el LA/FT/FPADM.
+A continuación, se cita el nombre de la convención, la ley aprobatoria y la sentencia de
+constitucionalidad proferida por la Corte Constitucional dentro del trámite de ratificación:
+Convención de Viena de 1988: Convención de las Naciones Unidas Contra el Tráfico de
+Estupefacientes y Sustancias Psicotrópicas (Aprobada por la Ley 67 de 1993
+Sentencia C-176 de 1994).
+Convenio de Naciones Unidas para la Represión de la Financiación del Terrorismo de
+1999 (Aprobado por la Ley 808 de 2003 Sentencia C-037 de 2004).
+Convención de Palermo de 2000: Convención de Naciones Unidas Contra la
+Delincuencia Organizada (Aprobada por la Ley 800 de 2003
+Sentencia C-962 de
+2003).
+6
+
+Tomado del Manual de Usuario del Sistema de Reporte en Línea
+visitar la página web de la UIAF (https://www.uiaf.gov.co/)
+
+SIREL de la UIAF, para más información se recomienda
+
+7/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+Convención de Mérida de 2003: Convención de Naciones Unidas Contra la Corrupción
+(Aprobada por la Ley 970 de 2005 Sentencia C 172 de 2006).
+Por su parte, el GAFI diseñó las Recomendaciones GAFI, en las cuales dicho organismo
+intergubernamental instó a los países a identificar los Riesgos LA/FT/FPADM a los que se
+exponen sus instituciones financieras y APNFD y, con base en ese riesgo, adoptar medidas
+para la mitigación del mismo, con un enfoque de supervisión basado en riesgos, con
+medidas más flexibles y acordes con la naturaleza de los riesgos debidamente identificados
+(Recomendación GAFI No. 1).
+La nota interpretativa de la Recomendación GAFI No. 1 señala que, al implementar un
+enfoque basado en riesgo, las APNFD deben tener establecidos procesos para identificar,
+evaluar, monitorear, administrar y mitigar los Riesgos LA/FT/FPADM. El principio general de
+un enfoque basado en riesgo es que, cuando existan riesgos mayores se deben ejecutar
+medidas intensificadas para administrar y mitigar esos riesgos; y que, por su parte, cuando
+los riesgos sean menores, puede permitirse la aplicación de medidas simplificadas. En todo
+caso no se permiten medidas simplificadas cuando exista una sospecha de LA/FT/FPADM.
+A su vez, la Recomendación GAFI No. 15 insta a los países a que tomen medidas para
+administrar y mitigar los Riesgos LA/FT/FPADM asociados a los Activos Virtuales, para lo
+cual deben regular a los proveedores de servicios de Activos Virtuales y, a fin de que se
+sujeten a sistemas de monitoreo efectivo, cumplan con las Recomendaciones GAFI, entre
+estas, la de Debida Diligencia (Cfr. Rec. 10).
+Adicionalmente, en la Recomendación GAFI No. 28, literal b), se señala que los países
+deben asegurar que las APNFD, estén sujetas a sistemas eficaces de regulación y
+supervisión. Esta actividad debe ser ejecutada por un supervisor o por un organismo
+autorregulador apropiado, siempre que dicho organismo pueda asegurar que sus miembros
+cumplan con sus obligaciones para combatir el LA/FT/FPADM.
+Finalmente, GAFI considera que para que un sistema de supervisión tenga resultados
+efectivos, los países deben asegurar sanciones eficaces, proporcionales y disuasivas, ya
+sean penales, civiles o administrativas, aplicables a las personas naturales o jurídicas que
+incumplan con las medidas para combatir el LA/FT/FPADM, incluso a sus directores y a la
+alta gerencia.
+3.2.
+
+Normas Nacionales
+
+Según lo dispuesto en el artículo 84 de la Ley 222 de 1995 y en el Decreto 1074 de 2015,
+corresponde a la Superintendencia de Sociedades ejercer la vigilancia de las Empresas.
+El numeral 3 del artículo 86 de la Ley 222 de 1995 señala que la Superintendencia de
+Sociedades está facultada para imponer sanciones o multas, sucesivas o no, hasta por
+doscientos (200) SMLMV, a quienes incumplan sus órdenes, la ley o los estatutos.
+El artículo 10 de la Ley 526 de 1999, modificada por la Ley 1121 de 2006, señala que las
+autoridades que ejerzan funciones de inspección, vigilancia y control deben instruir a sus
+supervisados sobre las características, periodicidad y controles en relación con la
+información por reportar a la UIAF, de acuerdo con los criterios e indicaciones que se
+reciban de esa entidad.
+El artículo 20 de la Ley 1121 de 2006 regula el procedimiento para la publicación y
+cumplimiento de las obligaciones relacionadas con Listas Vinculantes para Colombia, de
+conformidad con el Derecho Internacional, para lo cual dispone que
+Relaciones Exteriores transmitirá las listas de personas y entidades asociadas con
+organizaciones terroristas, vinculantes para Colombia conforme al Derecho Internacional y
+solicitará a las autoridades competentes que realicen una verificación en las bases de datos
+con el fin de determinar la posible presencia o tránsito de personas incluidas en las listas y
+bienes o fondos relacionados con estas
+
+8/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+A través de la Ley 1186 de 2009, declarada exequible mediante la sentencia de
+constitucionalidad CMemorando de entendimiento
+entre los gobiernos de los estados del Grupo de Acción Financiera de Sudamérica contra el
+, por medio del cual se creó y puso en funcionamiento el
+Grupo de Acción Financiera de Sudamérica contra el Lavado de Activos (hoy GAFILAT) y se
+determinó, como objetivo, reconocer y aplicar las Recomendaciones GAFI contra el
+blanqueo de capitales y las recomendaciones y medidas que en el futuro adopte ese
+organismo.
+El artículo 7º del Decreto 1736 de 2020 establece, en su numeral 28, que es función de la
+Superintendencia de Sociedades
+a su supervisión sobre las medidas que deben adoptar para promover la transparencia y
+ética empresarial en sus prácticas de negocios para contar con mecanismos internos de
+prevención de actos de corrupción, al igual que mecanismos de gestión para la prevención
+del riesgo de lavado de activos y del financiamiento del terrorismo, y de financiamiento de la
+proliferación de armas de destrucción masiva por
+El artículo 2.14.2 del Decreto 1068 de 2015, dispone que las entidades públicas y privadas
+pertenecientes a sectores diferentes al financiero, asegurador y bursátil, deben reportar
+Operaciones Sospechosas a la UIAF, de acuerdo con el literal d) del numeral 2º del artículo
+102 y los artículos 103 y 104 del Estatuto Orgánico del Sistema Financiero, cuando dicha
+Unidad lo solicite, en la forma y oportunidad que les señale.
+4. Ámbito de aplicación del Régimen de Autocontrol y Gestión del Riesgo Integral
+LA/FT/FPADM
+Están obligadas a dar aplicación al Capítulo X:
+4.1.
+
+Las Empresas7 sujetas a la vigilancia o al control que ejerce la Superintendencia de
+Sociedades que hubieren obtenido Ingresos Totales o tenido Activos iguales o
+superiores a cuarenta mil (40.000) SMLMV, con corte al 31 de diciembre del año
+inmediatamente anterior.
+Estas Empresas deberán dar cumplimiento a lo dispuesto en el numeral 5 del
+presente Capítulo X (SAGRILAFT).
+
+4.2.
+
+Las Empresas8 que pertenezcan a cualquiera de los sectores que se señalan a
+continuación, siempre y cuando cumplan con todos los requisitos que se indican
+para el respectivo sector, deberán dar cumplimiento a lo dispuesto en el numeral 5
+del presente Capítulo X (SAGRILAFT):
+4.2.1. Sector de agentes inmobiliarios
+a. Que estén sujetas a la vigilancia o al control que ejerce la Superintendencia de
+Sociedades conforme lo previsto en los artículos 84 y 85 de la Ley 222 de 1995;
+b. Que en su objeto social puedan desarrollar la actividad inmobiliaria (entendida
+como la prestación de servicios de intermediación en la compra, venta, permuta
+o arrendamiento de bienes inmuebles a favor de sus clientes) y que en el año
+calendario inmediatamente anterior hayan realizado negocios o transacciones en
+relación con dicha actividad, con personas naturales o jurídicas nacionales o
+extranjeras de derecho público o privado iguales o superiores a cien (100)
+SMLMV; y
+c. Que, a 31 de diciembre del año inmediatamente anterior, hubieren obtenido
+Ingresos Totales iguales o superiores a treinta mil (30.000) SMLMV.
+
+7
+8
+
+Siempre y cuando no estén vigiladas por otra entidad y tengan un régimen de vigilancia especial en razón de su actividad.
+Ídem.
+
+9/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+4.2.2. Sector de comercialización de metales preciosos y piedras preciosas
+a. Que estén sujetas a la vigilancia o al control que ejerce la Superintendencia de
+Sociedades conforme lo previsto en los artículos 84 y 85 de la Ley 222 de 1995;
+b. Que se dediquen habitualmente a la comercialización de metales preciosos y
+piedras preciosas; y
+c. Que, a 31 de diciembre del año inmediatamente anterior, hubieren obtenido
+Ingresos Totales iguales o superiores a treinta mil (30.000) SMLMV.
+4.2.3. Sector de servicios jurídicos
+a. Que estén sujetas a la vigilancia o al control que ejerce la Superintendencia de
+Sociedades conforme lo previsto en los artículos 84 y 85 de la Ley 222 de 1995;
+b. Que su actividad económica inscrita en el registro mercantil o la actividad
+económica que genera para la Empresa el mayor Ingreso de Actividad Ordinaria
+según las normas aplicables, sea la identificada con el código 6910 del CIIU Rev.
+4 A.C; y
+c. Que, a 31 de diciembre del año inmediatamente anterior, hubieren obtenido
+Ingresos Totales iguales o superiores a treinta mil (30.000) SMLMV.
+4.2.4. Sector de servicios contables
+a. Que estén sujetas a la vigilancia o al control que ejerce la Superintendencia de
+Sociedades conforme lo previsto en los artículos 84 y 85 de la Ley 222 de 1995;
+b. Que su actividad económica inscrita en el registro mercantil o la actividad
+económica que genera para la Empresa el mayor Ingreso de Actividad Ordinaria
+según las normas aplicables, sea la identificada con el código 6920 del CIIU Rev.
+4 A.C; y
+c. Que, a 31 de diciembre del año inmediatamente anterior, hubieren obtenido
+Ingresos Totales iguales o superiores a treinta mil (30.000) SMLMV.
+4.2.5. Sector de construcción de edificios y obras de ingeniería civil
+a. Que estén sujetas a la vigilancia o al control que ejerce la Superintendencia de
+Sociedades conforme lo previsto en los artículos 84 y 85 de la Ley 222 de 1995;
+b. Que su actividad económica inscrita en el registro mercantil o la actividad
+económica que genera para la Empresa el mayor Ingreso Total según las
+normas aplicables, sea la identificada con los códigos 4111,4112,4210,4220 o
+4290 del CIIU Rev. 4 A.C; y
+c. Que, a 31 de diciembre del año inmediatamente anterior, hubieren obtenido
+Ingresos Totales iguales o superiores a treinta mil (30.000) SMLMV.
+4.2.6. Servicios de Activos Virtuales
+a. Que las Empresas realicen, para o en nombre de, otra persona natural o jurídica,
+una o más de las siguientes actividades u operaciones iguales o superiores
+(individualmente o en conjunto) a cien (100) SMLMV:
+1. intercambio entre Activos Virtuales y monedas fiat;
+2. intercambio entre una o más formas de Activos Virtuales;
+3. transferencia de Activos Virtuales;
+4. custodia o administración de Activos Virtuales o instrumentos que permitan el
+control sobre Activos Virtuales;
+5. participación y provisión de servicios financieros relacionados con la oferta
+de un emisor o venta de un Activo Virtual; y
+6. en general, servicios relacionados con Activos Virtuales; y
+b. Que, a 31 de diciembre del año inmediatamente anterior, hubieren obtenido
+Ingresos Totales iguales o superiores a tres mil (3.000) SMLMV o tenido Activos
+iguales o superiores a cinco mil (5.000) SMLMV.
+
+10/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+La Empresas que pertenezcan al sector de Activos Virtuales deberán dar
+cumplimiento, adicional a lo dispuesto en el numeral 5 del presente Capítulo X
+(SAGRILAFT), al proceso de Debida Diligencia Intensificada para conocer a su
+Contraparte y a los Activos Virtuales, establecido en el numeral 5.3.2 del presente
+Capítulo X.
+4.2.7. Sectores de supervisión especial o regímenes especiales9
+a. Las Sociedades Administradoras de Planes de Autofinanciamiento Comercial
+(SAPAC).
+b. Las Sociedades Operadoras de Libranza, vigiladas por la Superintendencia de
+Sociedades.
+c. Las sociedades que lleven a cabo Actividades de Mercadeo Multinivel.
+d. Los fondos ganaderos.
+e. Las sociedades que realizan actividades de factoring, vigiladas por la
+Superintendencia de Sociedades.
+4.2.8. Régimen aplicable a las Empresas que reciban aportes en Activos
+Virtuales
+Las Empresas que, a 31 de diciembre del año inmediatamente anterior, hubieren recibido
+uno o varios aportes de Activos Virtuales iguales o superiores (individualmente o en
+conjunto) a cien (100) SMLMV, deberán dar cumplimiento a lo dispuesto en el numeral 5 del
+presente Capítulo X (SAGRILAFT) y deberán aplicar el proceso de Debida Diligencia
+Intensificada para conocer a su Contraparte y los Activos Virtuales, establecido en el
+numeral 5.3.2 del presente Capítulo.
+4.3.
+
+Las APNFD10 que pertenezcan a cualquiera de los sectores que se señalan a
+continuación, siempre y cuando cumplan con todos los requisitos que se indican
+para el respectivo sector, deberán dar cumplimiento a lo dispuesto en el numeral 6
+del presente Capítulo X (Régimen de Medidas Mínimas):
+4.3.1. Sector de agentes inmobiliarios
+a. Que se dediquen habitualmente a la prestación de servicios de intermediación en
+la compra o venta de bienes inmuebles a favor de sus clientes; y
+b. Que, a 31 de diciembre del año inmediatamente anterior, hubieren obtenido
+Ingresos Totales iguales o superiores a tres mil (3.000) SMLMV o tenido Activos
+iguales o superiores a cinco mil (5.000) SMLMV.
+4.3.2. Sector de comercialización de metales preciosos y piedras preciosas
+a. Que se dediquen habitualmente a la comercialización de metales preciosos y
+piedras preciosas; y
+b. Que, a 31 de diciembre del año inmediatamente anterior, hubieren obtenido
+Ingresos Totales iguales o superiores a tres mil (3.000) SMLMV o tenido Activos
+iguales o superiores a cinco mil (5.000) SMLMV.
+4.3.3. Sector de servicios jurídicos
+a. Que su actividad económica inscrita en el registro mercantil o la actividad
+económica que genera para la Empresa el mayor Ingreso de Actividad Ordinaria
+según las normas aplicables, sea la identificada con el código 6910 del CIIU Rev.
+4 A.C; y
+
+9
+
+Para mayor información remitirse al Capítulo IX de esta Circular.
+Siempre que no estén vigiladas por otra entidad y tengan un régimen de vigilancia especial en razón de su actividad.
+
+10
+
+11/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+b. Que, a 31 de diciembre del año inmediatamente anterior, hubieren obtenido
+Ingresos Totales iguales o superiores a tres mil (3.000) SMLMV o tenido Activos
+iguales o superiores a cinco mil (5.000) SMLMV.
+4.3.4. Sector de servicios contables
+a. Que su actividad económica inscrita en el registro mercantil o la actividad
+económica que genera para la Empresa el mayor Ingreso de Actividad Ordinaria
+según las normas aplicables, sea la identificada con el código 6920 del CIIU Rev.
+4 A.C; y
+b. Que, a 31 de diciembre del año inmediatamente anterior, hubieren obtenido
+Ingresos Totales iguales o superiores a tres mil (3.000) SMLMV o tenido Activos
+iguales o superiores a cinco mil (5.000).
+5. Sistema de Autocontrol y Gestión del Riesgo LA/FT/FPADM - SAGRILAFT
+Las Empresas Obligadas, mencionadas en los numerales 4.1. y 4.2. del presente Capítulo
+X, deberán poner en marcha un SAGRILAFT, en los términos previstos en este Capítulo X.
+El SAGRILAFT deberá establecer, entre otros elementos, una Política LA/FT/FPADM y un
+manual de procedimientos de gestión del Riesgo LA/FT/FPADM.
+El SAGRILAFT deberá tener en cuenta los riesgos propios de la Empresa Obligada 11 y la
+materialidad, relacionados con LA/FT/FPADM, para lo cual se debe analizar el tipo de
+negocio, la operación, el tamaño, las Áreas Geográficas donde opera y demás
+características particulares. Para los anteriores fines, las Empresas Obligadas deberán
+contar con una Matriz de Riesgo LA/FT/FPADM u otro mecanismo equivalente de
+evaluación del Riesgo LA/FT/FPADM que les permita medir y auditar su evolución.
+El SAGRILAFT debe identificar y manejar los Riesgos LA/FT/FPADM de cada Empresa
+Obligada, con la premisa que a mayor riesgo se debe tener mayor control.
+5.1.
+
+Elementos del SAGRILAFT
+
+La puesta en marcha del SAGRILAFT requiere del cumplimiento efectivo de la Política
+LA/FT/FPADM y los procedimientos de diseño, aprobación, seguimiento, divulgación y
+capacitación incluidos en el manual, en los términos descritos más adelante, y debe
+traducirse en una regla de conducta que oriente la actuación de la Empresa, sus empleados,
+asociados, administradores y demás vinculados o partes interesadas.
+Dentro de los elementos del SAGRILAFT se incluyen:
+5.1.1. Diseño y aprobación
+El diseño del SAGRILAFT estará a cargo de la Empresa Obligada, para lo cual deberá tener
+en cuenta la materialidad, las características propias de la Empresa y su actividad, así como
+la identificación de los Factores de Riesgo LA/FT/FPADM (Matriz de Riesgo LA/FT/FPADM
+u otro mecanismo de evaluación, individualización, identificación y segmentación del Riesgo
+LA/FT/FPADM). El representante legal y la junta directiva, o el máximo órgano social cuando
+aquella no existe, deberán disponer de las medidas operativas, económicas, físicas,
+tecnológicas y de recursos que sean necesarias para que el Oficial de Cumplimiento pueda
+desarrollar sus labores de manera adecuada.
+La aprobación del SAGRILAFT será responsabilidad de la junta directiva en las Empresas
+que cuenten con este órgano, o del máximo órgano social en los demás casos. El proyecto
+de SAGRILAFT deberá ser presentado conjuntamente por el representante legal y el Oficial
+de Cumplimiento. La aprobación deberá constar en el acta de la reunión correspondiente.
+11
+
+Los riesgos propios de la Empresa incluyen el análisis del tamaño y la composición general de la economía y el sector en el
+cual se desarrolla la actividad de cada empresa (enfoque basado en riesgo según la Recomendación GAFI No.1).
+
+12/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+5.1.2. Auditoría y cumplimiento del SAGRILAFT
+Con el fin de que en la Empresa Obligada haya una persona responsable de la auditoría y
+verificación del cumplimiento del SAGRILAFT, se deberá designar un Oficial de
+Cumplimiento.
+Para evitar la suspensión de actividades del Oficial de Cumplimiento principal, la Empresa
+Obligada deberá evaluar y, si es del caso, realizar la designación de un Oficial de
+Cumplimiento suplente.
+La junta directiva deberá realizar esa designación. En el evento de que no exista junta
+directiva, el representante legal propondrá la persona que ocupará la función de Oficial de
+Cumplimiento, para la designación por parte del máximo órgano social.
+La Empresa Obligada deberá certificar que el Oficial de Cumplimiento cumple con los
+requisitos exigidos en el presente Capítulo X y deberá informar por escrito a la
+Superintendencia de Sociedades, dirigido a la Delegatura de Asuntos Económicos y
+Societarios, dentro de los quince (15) días hábiles siguientes a la designación, el nombre,
+número de identificación, correo electrónico y número de teléfono del Oficial de
+Cumplimiento principal y suplente (cuando sea procedente).
+Con la anterior información se deberá remitir la hoja de vida del Oficial de Cumplimiento y
+copia del acta de la junta directiva o máximo órgano social en la que conste la designación o
+autorización para ser designado, según corresponda.
+El mismo procedimiento deberá efectuarse cuando ocurra el cambio de Oficial de
+Cumplimiento.
+El Oficial de Cumplimiento deberá tener un título profesional y acreditar experiencia mínima
+de seis (6) meses en el desempeño de cargos relacionados con la administración del
+SAGRILAFT y, adicionalmente, acreditar conocimiento en materia de administración del
+Riesgo LA/FT/FPADM a través de especialización, cursos, diplomados, seminarios,
+congresos o cualquier otra similar, incluyendo pero sin limitarse a cualquier programa de
+entrenamiento que sea o vaya a ser ofrecido por la UIAF a los actores del sistema nacional
+de anti lavado de activos y contra la financiación del terrorismo.
+La Empresa Obligada, su representante legal y la junta directiva, en los que casos en que
+exista este órgano, deberán disponer de las medidas operativas, económicas, físicas,
+tecnológicas y de recursos, que sean necesarios para la puesta en marcha del SAGRILAFT
+y el desarrollo adecuado de las labores de auditoría y cumplimiento del mismo.
+El SAGRILAFT debe incluir las sanciones o consecuencias para empleados,
+administradores, asociados o terceros, por el incumplimiento o inobservancia de sus
+disposiciones.
+5.1.3. Divulgación y capacitación
+El SAGRILAFT deberá ser divulgado dentro de la Empresa Obligada y a las demás partes
+interesadas, en la forma y frecuencia para asegurar su adecuado cumplimiento, como
+mínimo una (1) vez al año.
+Igualmente, la Empresa Obligada deberá brindarles capacitación a aquellos empleados,
+asociados y, en general, a todas las partes interesadas que considere que deban conocer el
+SAGRILAFT, lo cual se hará en la forma y frecuencia que la Empresa Obligada determine,
+con el propósito de asegurar su adecuado cumplimiento. Como resultado de esta
+divulgación y capacitación, todas las partes interesadas deberán estar en capacidad de
+identificar qué es una Operación Inusual o qué es una Operación Sospechosa, y el
+contenido y la forma como debe reportarse, entre otras.
+
+13/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+La capacitación debe ser implementada de forma que el SAGRILAFT sea asimilado por los
+interesados y por quienes deban ponerlo en marcha, de manera que forme parte de la
+cultura de la Empresa Obligada. Si bien la periodicidad de estas capacitaciones estará
+determinada por cada Empresa Obligada, estas deberán tener lugar por lo menos una (1)
+vez al año y se debe dejar constancia de su realización, así como de los nombres de los
+asistentes, la fecha y los asuntos tratados.
+5.1.4. Asignación de funciones a los responsables y otras generalidades
+Las Empresas Obligadas deben establecer y asignar de forma clara, a quién corresponde el
+ejercicio de las facultades y funciones necesarias frente a la ejecución de las distintas
+etapas, elementos y demás actividades asociadas al SAGRILAFT.
+Al hacerlo, la Empresa Obligada deberá tener en cuenta que esas funciones y facultades
+deben traducirse en reglas de conducta que orienten la actuación de la Empresa Obligada,
+sus empleados, asociados, administradores y demás vinculados o partes interesadas. De
+esta forma, con la implementación del SAGRILAFT y el cumplimiento cabal de todas las
+medidas de prevención y control que allí se señalen, se busca que la Empresa Obligada y
+sus administradores tengan instrumentos que les permitan tomar decisiones informadas y
+que faciliten la mitigación del Riesgo LA/FT/FPADM.
+En tal sentido, para la Empresa Obligada debe ser claro que el funcionamiento del
+SAGRILAFT requiere de la participación de varios sujetos, y que, si bien existen funciones
+específicas asignadas, la interacción de todos los responsables es fundamental para un
+adecuado funcionamiento, cumplimiento y efectividad del SAGRILAFT.
+Además de las funciones particulares que se asignen, las Empresas Obligadas deberán
+establecer en el SAGRILAFT como mínimo las siguientes atribuciones generales:
+5.1.4.1.
+
+Funciones de la junta directiva o del máximo órgano social
+
+La junta directiva, o el máximo órgano social cuando aquella no existe, es el órgano
+responsable de la puesta en marcha y efectividad del SAGRILAFT. Para ello, deberá
+disponer de la estructura organizacional que asegure el logro efectivo de estos propósitos.
+A continuación, se relaciona un listado mínimo de funciones que deberán ser expresamente
+asignadas a la junta directiva, o el máximo órgano social cuando aquella no existe, según el
+caso:
+a. Establecer y aprobar para la Empresa Obligada una Política LA/FT/FPADM.
+b. Aprobar el SAGRILAFT y sus actualizaciones, presentadas por el representante legal
+y el Oficial de Cumplimiento.
+c. Aprobar el manual de procedimientos SAGRILAFT y sus actualizaciones.
+d. Seleccionar y designar al Oficial de Cumplimiento y su respectivo suplente, cuando
+sea procedente.
+e. Analizar oportunamente los informes sobre el funcionamiento del SAGRILAFT, sobre
+las propuestas de correctivos y actualizaciones que presente el Oficial de
+Cumplimiento, y tomar decisiones respecto de la totalidad de los temas allí tratados.
+Esto deberá constar en las actas del órgano correspondiente.
+f. Analizar oportunamente los reportes y solicitudes presentados por el representante
+legal.
+g. Pronunciarse sobre los informes presentados por la revisoría fiscal o las auditorías
+interna y externa, que tengan relación con la implementación y el funcionamiento del
+SAGRILAFT, y hacer el seguimiento a las observaciones o recomendaciones
+incluidas. Ese seguimiento y sus avances periódicos deberán estar señalados en las
+actas correspondientes.
+h. Ordenar y garantizar los recursos técnicos, logísticos y humanos necesarios para
+implementar y mantener en funcionamiento el SAGRILAFT, según los requerimientos
+que para el efecto realice el Oficial de Cumplimiento.
+
+14/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+i.
+
+Establecer los criterios para aprobar la vinculación de Contraparte cuando sea una
+PEP.
+j. Establecer pautas y determinar los responsables de realizar auditorías sobre el
+cumplimiento y efectividad del SAGRILAFT en caso de que así lo determine.
+k. Verificar que el Oficial de Cumplimiento cuente con la disponibilidad y capacidad
+necesaria para desarrollar sus funciones.
+l. Constatar que la Empresa Obligada, el Oficial de Cumplimiento y el representante
+legal desarrollan las actividades designadas en este Capítulo X y en el SAGRILAFT.
+5.1.4.2.
+
+Funciones del representante legal
+
+El SAGRILAFT debe contemplar, como mínimo, las siguientes funciones a cargo del
+representante legal:
+
+a. Presentar con el Oficial de Cumplimiento, para aprobación de la junta directiva o el
+b.
+c.
+d.
+e.
+f.
+g.
+
+h.
+i.
+j.
+
+máximo órgano social, la propuesta del SAGRILAFT y sus actualizaciones, así como
+su respectivo manual de procedimientos.
+Estudiar los resultados de la evaluación del Riesgo LA/FT/FPADM efectuada por el
+Oficial de Cumplimiento y establecer los planes de acción que correspondan.
+Asignar de manera eficiente los recursos técnicos y humanos, determinados por la
+junta directiva o el máximo órgano social, necesarios para implementar el
+SAGRILAFT.
+Verificar que el Oficial de Cumplimiento cuente con la disponibilidad y capacidad
+necesaria para desarrollar sus funciones.
+Prestar efectivo, eficiente y oportuno apoyo al Oficial de Cumplimiento en el diseño,
+dirección, supervisión y monitoreo del SAGRILAFT.
+Presentar a la junta directiva o al máximo órgano social, los reportes, solicitudes y
+alertas que considere que deban ser tratados por dichos órganos y que estén
+relacionados con el SAGRILAFT.
+Asegurarse de que las actividades que resulten del desarrollo del SAGRILAFT se
+encuentran debidamente documentadas, de modo que se permita que la información
+responda a unos criterios de integridad, confiabilidad, disponibilidad, cumplimiento,
+efectividad, eficiencia y confidencialidad.
+Certificar ante la Superintendencia de Sociedades el cumplimiento de lo previsto en
+el presente Capítulo X, cuando lo requiera esta Superintendencia.
+En los casos en que no exista una junta directiva, el representante legal propondrá la
+persona que ocupará la función de Oficial de Cumplimiento, para la designación por
+parte del máximo órgano social.
+Verificar que los procedimientos del SAGRILAFT desarrollen la Política
+LA/FT/FPADM adoptada por la junta directiva o máximo órgano social en caso que
+no exista junta directiva.
+5.1.4.3.
+
+Oficial de Cumplimiento
+
+El Oficial de Cumplimiento debe participar activamente en los procedimientos de diseño,
+dirección, implementación, auditoría, verificación del cumplimiento y monitoreo del
+SAGRILAFT, y estar en capacidad de tomar decisiones frente a la gestión del Riesgo
+LA/FT/FPADM. Por su parte, la administración de la Empresa Obligada deberá brindarle un
+apoyo efectivo y los recursos humanos, físicos, financieros y técnicos necesarios para llevar
+a cabo la implementación, auditoría y cumplimiento del SAGRILAFT.
+La Empresa deberá determinar de manera expresa (i) el perfil del Oficial de Cumplimiento;
+(ii) las incompatibilidades e inhabilidades; (iii) administración de conflictos de interés; y (iv)
+las funciones específicas que se le asignen a la persona que tenga dicha responsabilidad,
+adicionales a las establecidas en este Capítulo X.
+5.1.4.3.1. Requisitos mínimos para ser designado como Oficial de
+Cumplimiento
+
+15/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+La persona natural designada como Oficial de Cumplimiento debe cumplir como mínimo con
+los siguientes requisitos:
+a. Gozar de la capacidad de tomar decisiones para gestionar el Riesgo LA/FT/FPADM
+y tener comunicación directa con, y depender directamente de, la junta directiva o el
+máximo órgano social en caso de que no exista junta directiva.
+b. Contar con conocimientos suficientes en materia de administración de riesgos y
+entender el giro ordinario de las actividades de la Empresa, de conformidad con lo
+establecido en el numeral 5.1.2. del presente Capítulo X.
+c. Contar con el apoyo de un equipo de trabajo humano y técnico, de acuerdo con el
+Riesgo LA/FT/FPADM y el tamaño de la Empresa Obligada.
+d. No pertenecer a la administración o a los órganos sociales, ni de auditoría o control
+interno o externo (revisor fiscal o vinculado a la empresa de revisoría fiscal que
+ejerce esta función, si es el caso) o quien ejecute funciones similares o haga sus
+veces en la Empresa Obligada.
+e. No fungir como Oficial de Cumplimiento en más de diez (10) Empresas Obligadas.
+Para fungir como Oficial de Cumplimiento de más de una Empresa Obligada, (i) el
+Oficial de Cumplimiento deberá certificar; y (ii) el órgano que designe al Oficial de
+Cumplimiento deberá verificar, que el Oficial de Cumplimiento no actúa como tal en
+Empresas que compiten entre sí.
+f. Cuando el Oficial de Cumplimiento no se encuentre vinculado laboralmente a la
+Empresa Obligada, esta persona natural y la persona jurídica a la que esté
+vinculado, si es el caso, deberán demostrar que en sus actividades profesionales
+cumplen con las medidas mínimas establecidas en la sección 5.3.1 (Debida
+Diligencia) de este Capítulo X.
+g. Cuando exista un grupo empresarial o una situación de control declarada, el Oficial
+de Cumplimiento de la matriz o controlante podrá ser la misma persona para todas
+las Empresas que conforman el grupo o conglomerado, independientemente del
+número de Empresas que lo conformen.
+5.1.4.3.2. Funciones del Oficial de Cumplimiento
+Además de las funciones que se le asignen al Oficial de Cumplimiento en el SAGRILAFT de
+cada Empresa Obligada, deberá cumplir, como mínimo, las siguientes:
+a. Velar por el cumplimiento efectivo, eficiente y oportuno del SAGRILAFT.
+b. Presentar, por lo menos una vez al año, informes a la junta directiva o, en su
+defecto, al máximo órgano social. Como mínimo, los reportes deberán contener una
+evaluación y análisis sobre la eficiencia y efectividad del SAGRILAFT y, de ser el
+caso, proponer las mejoras respectivas. Así mismo, demostrar los resultados de la
+gestión del Oficial de Cumplimiento, y de la administración de la Empresa, en
+general, en el cumplimiento del SAGRILAFT.
+c. Promover la adopción de correctivos y actualizaciones al SAGRILAFT, cuando las
+circunstancias lo requieran y por lo menos una vez cada dos (2) años. Para ello
+deberá presentar a la junta directiva o al máximo órgano social, según el caso, las
+propuestas y justificaciones de los correctivos y actualizaciones sugeridas al
+SAGRILAFT.
+d. Coordinar el desarrollo de programas internos de capacitación.
+e. Evaluar los informes presentados por la auditoría interna o quien ejecute funciones
+similares o haga sus veces, y los informes que presente el revisor fiscal o la
+auditoría externa, si es el caso, y adoptar las Medidas Razonables frente a las
+deficiencias informadas. Si las medidas que deben ser adoptadas requieren de una
+autorización de otros órganos, deberá promover que estos asuntos sean puestos en
+conocimiento de los órganos competentes.
+f. Certificar ante la Superintendencia de Sociedades el cumplimiento de lo previsto en
+el presente Capítulo X, según lo requiera la Superintendencia de Sociedades.
+g. Verificar el cumplimiento de los procedimientos de Debida Diligencia y Debida
+Diligencia Intensificada, aplicables a la Empresa.
+
+16/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+h. Velar por el adecuado archivo de los soportes documentales y demás información
+relativa a la gestión y prevención del Riesgo LA/FT/FPADM.
+i. Diseñar las metodologías de clasificación, identificación, medición y control del
+Riesgo LA/FT/FPADM que formarán parte del SAGRILAFT.
+j. Realizar la evaluación del Riesgo LA/FT/FPADM a los que se encuentra expuesta la
+Empresa.
+k. Realizar el Reporte de las Operaciones Sospechosas a la UIAF y cualquier otro
+reporte o informe exigido por las disposiciones vigentes, conforme lo establezca
+dichas normas y este Capítulo X.
+5.1.4.4.
+
+Órganos y funciones de control adicionales
+
+Además de los órganos e instancias enunciadas, las Empresas Obligadas pueden
+establecer otras adicionales encargadas de efectuar una evaluación del cumplimiento y
+efectividad del SAGRILAFT, teniendo en cuenta la Política LA/FT/FPADM adoptadas por la
+junta directiva o el máximo órgano social, conforme fuera aplicable.
+5.1.4.5.
+
+Revisoría fiscal
+
+Las funciones de este órgano se encuentran expresamente señaladas en la ley, en
+particular el artículo 207 del Código de Comercio, el cual señala, especialmente, la
+relacionada con la obligación de reporte a la UIAF de las Operaciones Sospechosas, cuando
+las adviertan dentro del giro ordinario de sus labores, conforme lo señala el numeral 10 de
+dicho artículo.
+Para efectos de lo previsto en el numeral 10 del artículo 207 citado, el revisor fiscal debe
+solicitar usuario y contraseña en el SIREL administrado por la UIAF, para el envío de los
+ROS.
+En todo caso, el revisor fiscal, a pesar de la obligación de guardar la reserva profesional en
+todo aquello que conozca en razón del ejercicio de su profesión, en virtud de la
+responsabilidad inherente a sus funciones y conforme a los casos en que dicha reserva
+pueda ser levantada, tiene el deber de revelar información cuando así lo exija la ley. Así, por
+ejemplo, cuando en el curso de su trabajo un revisor fiscal descubre información que lleva a
+la sospecha de posibles actos de LA/FT/FPADM, tiene la obligación de remitir estas
+sospechas a la autoridad competente.
+Igualmente, se debe tener en cuenta que los revisores fiscales se encuentran cobijados por
+el deber general de denuncia al que están sujetos los ciudadanos (artículo 67 CPP 12).
+Adicionalmente, el parágrafo del artículo 10 de la Ley 43 de 1990 establece lo siguiente:
+asimilarán a funcionarios públicos para efectos de las sanciones penales por los
+delitos que cometieren en el ejercicio de las actividades propias de su profesión, sin
+perjuicio de las responsabilidades de orden civil que hubiere lugar conforme a las
+A su turno, el artículo 32 de la Ley 1778 de 2016 13, le impone a los revisores fiscales, el
+deber de denunciar ante las autoridades penales, disciplinarias y administrativas, la presunta
+realización de un delito contra el orden económico y social, como el de LA, que detecte en el
+ejercicio de su cargo, aún, a pesar del secreto profesional. También deberán poner estos
+hechos en conocimiento de los órganos sociales y de la administración de la sociedad. Las
+
+12
+
+Artículo 67. Deber de denunciar. Toda persona debe denunciar a la autoridad los delitos de cuya comisión tenga
+conocimiento y que deban investigarse de oficio.
+El servidor público que conozca de la comisión de un delito que deba investigarse de oficio, iniciará sin tardanza la
+investigación si tuviere competencia para ello; en caso contrario, pondrá inmediatamente el hecho en conocimiento ante la
+autoridad competente.
+13
+El cual modificó el artículo 26 de la Ley 43 de 1990.
+
+17/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+denuncias correspondientes deberán presentarse dentro de los seis (6) meses siguientes al
+momento en que el revisor fiscal hubiere tenido conocimiento de los hechos 14.
+En calidad de funcionarios públicos, los cobija el deber previsto en el artículo 38 de la Ley
+1952 de 2019 (por la cual se expide el Código General Disciplinario) que señala como deber
+de todos los servidores públicos:
+25. Denunciar los delitos, contravenciones y faltas disciplinarias de los cuales tuviere
+conocimiento, salvo las excepciones de ley
+Para cumplir con su deber, el revisor fiscal, en el análisis de información contable y
+financiera, debe prestar atención a los indicadores que pueden dar lugar a sospecha de un
+acto relacionado con un posible LA/FT/FPADM. Se sugiere tener en cuenta las Normas
+Internacionales de Auditoria NIA 200, 240 y 250 y consultar la Guía sobre el papel de la
+revisoría fiscal en la lucha contra el soborno transnacional y LA/FT/FPADM, disponible en el
+sitio de Internet de la Superintendencia.
+5.1.4.6.
+
+Auditoría Interna
+
+Sin perjuicio de las funciones asignadas en otras disposiciones a la auditoría interna, se
+recomienda como una buena práctica empresarial que las personas a cargo del ejercicio de
+estas funciones, incluyan dentro de sus planes anuales de auditoría la revisión de la
+efectividad y cumplimiento del SAGRILAFT, con el fin de servir de fundamento para que,
+tanto el Oficial de Cumplimiento y la administración de la Empresa Obligada, puedan
+determinar la existencia de deficiencias del SAGRILAFT y sus posibles soluciones. En ese
+sentido, el resultado de dichas auditorías internas debe ser comunicado al representante
+legal, al Oficial de Cumplimiento y a la junta directiva o al máximo órgano social.
+5.1.4.7.
+
+Contenido de los informes a cargo de los diferentes órganos
+
+Los informes que deban presentar el representante legal, el Oficial de Cumplimiento o los
+órganos internos de control, según el caso, deberán dar cuenta de los resultados, análisis,
+evaluaciones y correctivos en la implementación, gestión, avance, cumplimiento, dificultades
+y efectividad alcanzados mediante el SAGRILAFT. La revisoría fiscal y la auditoría interna,
+podrán incluir propuestas de mejora cuando ello sea pertinente.
+5.1.4.8.
+
+Incompatibilidades e inhabilidades de los diferentes órganos
+
+En el establecimiento de los órganos e instancias encargadas de efectuar una evaluación
+del cumplimiento y efectividad del SAGRILAFT, la Empresa Obligada deberá tener en
+cuenta los conflictos de interés, las incompatibilidades y las inhabilidades de los
+responsables en el desempeño de sus funciones. Para ello, se recomienda revisar lo
+establecido por el Comité de Supervisión Bancario de Basilea sobre las tres (3) líneas de
+defensa para prevenir y controlar el Riesgo LA/FT/FPADM15.
+En ese sentido, debido a la diferencia de las funciones que corresponden al revisor fiscal, al
+representante legal y al Oficial de Cumplimiento, no se deberá designar al revisor fiscal o al
+representante legal como Oficial de Cumplimiento.
+
+14
+
+Artículo 7°. Responsabilidad de los revisores fiscales. Adiciónese un numeral 5 al artículo 26 de la Ley 43 de 1990, el cual
+quedará así:
+gación de denunciar ante las autoridades penales, disciplinarias y administrativas, los
+actos de corrupción, así como la presunta realización de un delito contra la administración pública, un delito contra el orden
+económico y social, o un delito contra el patrimonio económico que hubiere detectado en el ejercicio de su cargo. También
+deberán poner estos hechos en conocimiento de los órganos sociales y de la administración de la sociedad. Las denuncias
+correspondientes deberán presentarse dentro de los seis (6) meses siguientes al momento en que el revisor fiscal hubiere
+tenido conocimiento de los hechos. Para los efectos de este artículo, no será aplicable el régimen de secreto profesional que
+15
+
+Comité de Supervisión Bancar
+rafos
+
+19 a 27. Documento disponible en https://www.bis.org/publ/bcbs275_es.pdf.
+
+18/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+5.2.
+
+Etapas del SAGRILAFT
+
+El SAGRILAFT deberá contemplar, como mínimo, las siguientes etapas para identificar,
+prevenir, controlar y gestionar el Riesgo de LA/FT/FPADM y las consecuencias de su
+materialización:
+5.2.1.
+
+Identificación del Riesgo LA/FT/FPADM:
+
+El SAGRILAFT debe permitirle a las Empresas Obligadas identificar los Factores de Riesgo
+LA/FT/FPADM, así como los riesgos asociados con éste.
+Para identificar el Riesgo LA/FT/FPADM, las Empresas Obligadas deben, como mínimo:
+a. Clasificar los Factores de Riesgo LA/FT/FPADM de conformidad con la actividad
+económica de la Empresa Obligada y su materialidad.
+b. Establecer, una vez sean identificados, individualizados, segmentados y clasificados
+los Factores de Riesgo LA/FT/FPADM, las metodologías para identificar el riesgo
+específico de LA/FT/FPADM que puede llegar a enfrentar la Empresa Obligada, así
+como otros posibles riesgos asociados. Con base en esa clasificación y
+segmentación, se deben señalar, identificar e individualizar los riesgos.
+c. Establecer, una vez clasificados y segmentados los Factores de Riesgo
+LA/FT/FPADM, las condiciones de tiempo, modo y lugar, así como la relevancia y la
+prioridad con que se deben ejecutar las medidas de Debida Diligencia.
+d. Disponer e implementar los mecanismos y medidas que le permitan un adecuado
+conocimiento, identificación e individualización de los Factores de Riesgo
+LA/FT/FPADM que le resultan aplicables.
+5.2.2.
+
+Medición o evaluación del Riesgo LA/FT/FPADM:
+
+Concluida la etapa de identificación, el SAGRILAFT debe permitirle a las Empresas
+Obligadas medir la posibilidad o probabilidad de ocurrencia del Riesgo Inherente frente a
+cada uno de los Factores de Riesgo LA/FT/FPADM, así como el impacto en caso de
+materializarse mediante los riesgos asociados. Estas mediciones podrán ser de carácter
+cualitativo o cuantitativo.
+Como resultado de esta etapa, las Empresas Obligadas deben estar en capacidad de
+establecer el perfil de Riesgo Inherente de la Empresa, de las mediciones agregadas en
+cada Factor de Riesgo LA/FT/FPADM y en sus riesgos asociados.
+Dentro de la medición o evaluación del Riesgo LA/FT/FPADM, las Empresas Obligadas
+deben, como mínimo:
+a. Establecer las metodologías para la medición o evaluación del Riesgo
+LA/FT/FPADM, con el fin de determinar la posibilidad o probabilidad de su
+ocurrencia y el impacto en caso de materializarse.
+b. Incluir mediciones o evaluaciones del Riesgo LA/FT/FPADM de manera individual y
+consolidadas frente a cada uno de los Factores de Riesgo LA/FT/FPADM y los
+riesgos específicos que fueron identificados.
+c. Evaluar el Riesgo LA/FT/FPADM cuando incursione en nuevos mercados u ofrezca
+nuevos Productos.
+5.2.3.
+
+Control del riesgo:
+
+El SAGRILAFT debe permitirle a las Empresas Obligadas tomar las Medidas Razonables
+para el control del Riesgo Inherente al que se vean expuestas.
+Como resultado de la aplicación de los controles respectivos, las Empresas Obligadas
+deben estar en capacidad de establecer su perfil de Riesgo Residual. El control debe
+
+19/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+traducirse en una disminución de la posibilidad o probabilidad de acaecimiento del Riesgo
+LA/FT/FPADM o del impacto en caso de materializarse.
+Para controlar el Riesgo LA/FT/FPADM, las Empresas Obligadas deben adoptar, entre otras
+medidas, el establecimiento de metodologías y la creación de una Matriz de Riesgo
+LA/FT/FPADM para definir los mecanismos de control más adecuados y su aplicación a los
+Factores de Riesgo LA/FT/FPADM identificados.
+Para controlar el Riesgo LA/FT/FPADM, la Empresa Obligada debe, como mínimo:
+a. Establecer las metodologías para definir las Medidas Razonables de control del
+Riesgo LA/FT/FPADM.
+b. Aplicar las metodologías a cada uno de los Factores de Riesgo LA/FT/FPADM.
+c. Establecer controles y herramientas para la detección de operaciones Inusuales y
+Operaciones Sospechosas, con base en los Riesgos LA/FT/FPADM identificados en
+la clasificación, segmentación e individualización de los Factores de Riesgo
+LA/FT/FPADM y conforme a la Matriz de Riesgo LA/FT/FPADM, teniendo en cuenta
+que a mayor riesgo mayor control.
+5.2.4. Monitoreo del riesgo:
+El SAGRILAFT debe permitirle a las Empresas Obligadas ejercer vigilancia respecto del
+perfil de riesgo y, en general, estar en condiciones de detectar Operaciones Inusuales y
+Operaciones Sospechosas.
+Para monitorear el Riesgo LA/FT/FPADM, las Empresas Obligadas deben, como mínimo:
+a. Realizar el seguimiento periódico y comparativo del Riesgo Inherente y Riesgo
+Residual de cada Factor de Riesgo LA/FT/FPADM y de los riesgos asociados.
+b. Desarrollar un proceso de seguimiento continuo y efectivo que facilite la rápida
+detección y corrección de las deficiencias del SAGRILAFT. Dicha verificación y
+revisión debe tener una periodicidad acorde con el perfil de Riesgo Residual de la
+Empresa Obligada.
+c. Asegurar que los controles sean integrales y se refieran a todos los riesgos y que
+funcionen en forma oportuna, efectiva y eficiente.
+d. Asegurar que los Riesgos Residuales se encuentren en los niveles de aceptación
+establecidos por la Empresa Obligada.
+5.3.
+
+Procedimientos de Debida Diligencia y Debida Diligencia Intensificada
+
+Uno de los principales instrumentos para prevenir y controlar los Riesgos LA/FT/FPADM a
+los que se encuentra expuesta una Empresa Obligada, es la aplicación de medidas de
+Debida Diligencia. Cada Empresa Obligada debe aplicar las medidas de Debida Diligencia
+mínimas que le correspondan conforme a lo establecido en este numeral.
+Para determinar su alcance, las Empresas Obligadas deben utilizar un enfoque basado en el
+riesgo de acuerdo con la materialidad y sus características propias, teniendo en cuenta las
+operaciones, Productos y contratos que lleve a cabo o pretenda desarrollar, así como sus
+Contrapartes, países o Áreas Geográficas de operación y canales y demás características
+particulares. El alcance del proceso de Debida Diligencia debe ser el apropiado para la
+naturaleza y tamaño del negocio.
+5.3.1. Debida Diligencia
+En todo caso, las Empresas Obligadas siempre deben adoptar Medidas Razonables de
+Debida Diligencia de la Contraparte, con un enfoque basado en riesgo y la materialidad del
+mismo.
+
+20/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+Para tal efecto, deben adoptar las siguientes medidas mínimas conforme a la materialidad,
+entre otras:
+a. Identificar a la Contraparte y verificar su identidad utilizando documentos, datos o
+información confiable, de fuentes independientes.
+b. Identificar al Beneficiario Final de la Contraparte y tomar Medidas Razonables para
+verificar su identidad.
+c. Tratándose de Personas Jurídicas, se deben tomar Medidas Razonables para
+conocer la estructura de su propiedad con el fin de obtener el nombre y el número
+de identificación de los Beneficiarios Finales, haciendo uso de las herramientas de
+que disponga. Las medidas tomadas deben ser proporcionales al nivel del riesgo y
+su materialidad o complejidad inducida por la estructura de titularidad de la sociedad
+mercantil o la naturaleza de los asociados mayoritarios.
+d. Entender, y cuando corresponda, obtener información sobre el propósito y el
+carácter que se pretende dar a la relación comercial.
+e. Realizar una Debida Diligencia continua de la relación comercial y examinar las
+transacciones llevadas a cabo a lo largo de esa relación para asegurar que las
+transacciones que se realicen sean consistentes con el conocimiento que tiene la
+Empresa Obligada sobre la Contraparte, su actividad comercial y el perfil de riesgo,
+incluyendo, cuando sea necesario, la fuente de los fondos.
+Las Empresas Obligadas podrán diseñar y definir formatos para el adecuado conocimiento
+de las Contrapartes. Estos formatos podrán ajustarse de acuerdo con las características de
+cada industria o sector económico al que pertenezcan, y conforme a los Factores de Riesgo
+LA/FT/FPADM identificados, a la Matriz de Riesgo LA/FT/FPADM y la materialidad del
+Riesgo LA/FT/FPADM.
+Para el análisis de las operaciones con las Contrapartes, la Empresa Obligada debe
+construir una base de datos u otro mecanismo que le permita consolidar e identificar alertas
+presentes o futuras. Esta base de datos debe contener, como mínimo, el nombre de la
+Contraparte, ya sea persona natural o jurídica, la identificación, el domicilio, el Beneficiario
+Final, el nombre del representante legal, el nombre de la persona de contacto, el cargo que
+desempeña, fecha del proceso de conocimiento o monitoreo de la Contraparte.
+Las Empresas Obligadas podrán ser requeridas a reportar esta información a la
+Superintendencia de Sociedades, en la oportunidad y condiciones que la entidad lo
+establezca.
+El monitoreo y actualización del proceso de Debida Diligencia deberá hacerse con la
+periodicidad y regularidad establecidas por la Empresa Obligada, mínimo una vez cada dos
+(2) años o cada vez que aparezca necesario conforme a los cambios de las condiciones
+jurídicas y reputacionales de la Contraparte, y no sólo en el momento de su vinculación.
+Para garantizar el cumplimiento de las obligaciones internacionales de Colombia, relativas a
+la aplicación de disposiciones sobre congelamiento y prohibición de manejo de fondos u
+otros Activos, prohibición de viajar y embargo de armas, de personas y entidades
+designadas por el Consejo de Seguridad de las Naciones Unidas, relacionadas con el
+Financiamiento del Terrorismo, en consonancia con el artículo 20 de la Ley 1121 de 2006 y
+las Recomendaciones GAFI No. 6 y 7, las Empresas Obligadas deben consultar
+permanentemente las Listas Vinculantes.
+En el evento en que se identifique o verifique cualquier bien, Activo, Producto, fondo o
+derecho de titularidad a nombre o bajo la administración o control de cualquier país, persona
+o entidad incluida en estas Listas Vinculantes, el Oficial de Cumplimiento, de manera
+inmediata, deberá reportarlo a la UIAF y ponerlo en conocimiento de la Fiscalía General de
+la Nación. La información se enviará a la UIAF a través del correo electrónico
+cumplimientogafi67@uiaf.gov.co.
+
+21/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+Las Empresas Obligadas previo al inicio de la relación contractual o legal, deberán haber
+cumplido con los procedimientos de Debida Diligencia que forman parte del SAGRILAFT,
+adjuntando para tal efecto los soportes exigidos o requeridos. De igual manera, la
+vinculación de la Contraparte debe haber sido aprobada por el funcionario o persona
+encargada, de acuerdo con la Política LA/FT/FPADM de la Empresa Obligada. Si la
+Empresa Obligada no puede llevar a cabo la Debida Diligencia satisfactoriamente, deberá
+evaluar la pertinencia de iniciar o terminar la relación legal o contractual, así como también
+la procedencia de reportar la operación como sospechosa.
+Excepcionalmente, las Empresas Obligadas pueden completar la verificación después de
+establecida la relación comercial, si así ha sido establecido en la Política LA/FT/FPADM,
+siempre y cuando esto ocurra lo antes y razonablemente posible. La Política LA/FT/FPADM
+debe señalar específicamente los eventos en los que procede, que deben obedecer a
+aquellos esenciales para no interrumpir la conducción normal de la operación. En todo caso,
+los Riesgos LA/FT/FPADM deben estar efectivamente bajo control y deben existir
+procedimientos documentados sobre el manejo del riesgo que establezca las condiciones
+bajo las cuales la Contraparte puede utilizar la relación antes de la verificación. Si no puede
+llevar a cabo la Debida Diligencia satisfactoriamente una vez establecida la relación
+comercial, la Empresa Obligada deberá evaluar de acuerdo con su Política LA/FT si debe
+continuar con la relación contractual y si es procedente hacer un ROS en relación con la
+Contraparte.
+5.3.1.1.
+
+Consideraciones adicionales sobre la Debida Diligencia:
+
+a. Operaciones de efectivo:
+La realización de operaciones en las que se maneje efectivo constituyen un Factor de
+Riesgo LA/FT/FPADM. Por lo tanto, la Empresa Obligada que realice operaciones en
+efectivo, deberá reglamentar la forma en que se manejarán dichos dineros en los negocios
+con sus Contrapartes, para lo cual, habrá de tenerse en cuenta, cuando menos, las
+características propias del negocio y la actividad de la Empresa Obligada.
+Es deber de la Empresa Obligada diseñar y establecer patrones que se consideren
+normales en su funcionamiento para que, aquellas operaciones en efectivo que se aparten
+de tales patrones, puedan considerarse como una señal de alerta.
+b. Ventas masivas:
+Cuando la comercialización de los Productos se hace mediante ventas masivas o retail que
+no permitan con facilidad y eficiencia llevar a cabo la Debida Diligencia de la Contraparte, lo
+cual debe estar evaluado y documentado, con los umbrales designados aplicables, se deben
+concentrar los esfuerzos de conocimiento de la Contraparte en las Operaciones Inusuales.
+c. Transacciones con Activos Virtuales:
+Si determinado negocio involucra transacciones con Activos Virtuales, es indispensable que
+la Empresa Obligada adopte las Medidas Razonables para la identificación de la
+Contraparte (persona natural o jurídica con quien se realizará la operación) y de los riesgos
+asociados con, y tipo de, Activos Virtuales16.
+Las Empresas Obligadas podrán ser requeridas a reportar estas transacciones a la
+Superintendencia de Sociedades, en la oportunidad y condiciones que la entidad lo
+establezca.
+5.3.2. Debida Diligencia Intensificada
+
+16
+
+En este sentido, vale recalcar que los diversos riesgos derivados de las transacciones sobre Activos Virtuales recaen
+exclusivamente sobre quien voluntariamente, por su propia cuenta y riesgo, participe en dichas actividades.
+
+22/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+El proceso de Debida Diligencia Intensificada implica un conocimiento avanzando de la
+Contraparte y del origen de los Activos que se reciben, que incluye actividades adicionales a
+las llevadas a cabo en la Debida Diligencia.
+Estos procedimientos deben: (A) aplicarse a aquellas Contrapartes que (i) la Empresa
+Obligada considere que representan un mayor riesgo; (ii) a los PEP; y (iii) a aquellas
+ubicadas en países no cooperantes y jurisdicciones de alto riesgo; y (B) ser aplicados por
+todas las Empresas Obligadas que desarrollen actividades con Activos Virtuales,
+establecidas en los numerales 4.2.6 y 4.2.8, sobre las Contrapartes de estas operaciones,
+los Activos Virtuales y sus intermediarios.
+Respecto de los procesos para el conocimiento de PEP, estos implican una Debida
+Diligencia Intensificada, pues deben ser más estrictos y exigir mayores controles. El
+SAGRILAFT debe contener mecanismos que permitan identificar que una Contraparte o su
+Beneficiario Final detentan la calidad de PEP.
+Además de las medidas comunes de procedimiento de conocimiento de la Contraparte, las
+Empresas Obligadas en el proceso de Debida Diligencia Intensificada deben: (i) obtener la
+aprobación de la instancia o empleado de jerarquía superior para la vinculación o para
+continuar con la relación contractual; (ii) adoptar Medidas Razonables para establecer el
+origen de los recursos; y (iii) realizar un monitoreo continúo e intensificado de la relación
+contractual.
+Las Empresas Obligadas deben revisar permanentemente los países de mayor riesgo
+contenidos en los listados de GAFI de países no cooperantes y jurisdicciones de alto
+riesgo17. En caso de que se identifique que se realizan negocios con Contrapartes ubicadas
+en esos lugares, se deben aplicar las medidas de Debida Diligencia Intensificada contenidas
+en el párrafo anterior.
+Asimismo, las Empresas Obligadas señaladas en los numerales 4.2.6 y 4.2.8, deberán
+realizar una Debida Diligencia Intensificada a las actividades con Activos Virtuales con el
+objeto de identificar si las Contrapartes en estas operaciones y los Activos Virtuales per se
+representan un Riesgo LA/FT/FPADM, conforme a las señales de alerta establecidas por
+18
+GAFI en el documento denominado
+.
+5.4.
+
+Señales de alerta:
+
+A continuación, se enuncian algunas señales de alerta de Riesgo LA/FT/FPADM que la
+Empresa Obligada deberá tener en cuenta, dependiendo de los Factores de Riesgo
+LA/FT/FPADM identificados, conforme a la Matriz de Riesgo LA/FT/FPADM y de acuerdo
+con la materialidad del Riesgo LA/FT/FPADM, sin perjuicio del desarrollo de sus propias
+alertas:
+a. Respecto de operaciones o actividades con Contrapartes, relacionadas con:
+
+1. Personas naturales o jurídicas que no estén plenamente identificadas;
+2. Asociados o empleados con antecedentes judiciales de LA/FT; y
+3. Nuevos asociados que hayan sido aceptados o vinculados sin verificar
+previamente el origen de los recursos que aportan.
+b. Respecto de operaciones, negocios o contratos que representen, tengan por objeto
+o involucren:
+1. Alto volumen en efectivo sin justificación aparente;
+2. Bienes muebles o inmuebles a precios considerablemente distintos a los
+normales del mercado;
+17
+
+Los países o jurisdicciones de alto riesgo según la definición de GAFI se encuentran publicados en el siguiente enlace:
+https://www.uiaf.gov.co/asuntos_internacionales/lista_paises_no_cooperantes_29282
+18
+https://www.uiaf.gov.co/asuntos_internacionales/documentos_interes/documento_gafi_indicadores_riesgo_30593
+
+23/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+3. Donaciones que no tengan un Beneficiario Final aparente, que no se conozca su
+origen o que éste se encuentre domiciliado en país o una jurisdicción de alto
+riesgo19;
+4. Operaciones, negocios o contratos relevantes que no consten por escrito;
+5. Pagos de operaciones con recursos derivados de giros internacionales
+provenientes de varios remitentes a favor de un mismo beneficiario, o de un
+mismo remitente a favor de varios destinatarios, sin una relación aparente.
+6. Operaciones con subcontratistas que no han sido identificados.
+7. Operaciones comerciales o negocios con las personas incluidas en las Listas
+Vinculantes.
+8. Operaciones celebradas con Contrapartes domiciliadas o ubicadas en Áreas
+Geográficas designadas por GAFI como no cooperantes.
+9. Operaciones con Productos provenientes de actividades ilegales (incluyendo,
+entre otros, el contrabando);
+10. Operaciones con Productos que no han sido debidamente nacionalizados; y
+11. Operaciones con Productos de venta restringida que no cuenten con las debidas
+autorizaciones o licencias.
+c. Respecto de operaciones con efectivo proveniente de, o relacionado con:
+
+1. Países con un alto nivel de corrupción y de inestabilidad política;
+2. Depósitos de efectivo en cuentas bancarias personales o de empresas a partir de
+fuentes sin explicar;
+
+3. Documentación injustificada sobre, o no correspondan con, el origen o el
+propietario;
+Cantidad, valor o divisa no concordante con las circunstancias del portador;
+Transporte oculto de efectivo;
+Riesgo claro de seguridad en el método de transporte;
+Transporte con costos elevados en comparación con métodos alternativos de
+transporte;
+8. Facturación o ventas en efectivo no esperables en el sector económico;
+9. Gran aumento de facturación o ventas en efectivo procedentes de clientes no
+identificables; y
+10. Préstamos del extranjero recibidos en efectivo y en moneda local.
+
+4.
+5.
+6.
+7.
+
+5.5.
+
+Documentación de las actividades del SAGRILAFT
+
+Las actividades adoptadas por la Empresa Obligada, en desarrollo de la implementación y
+ejecución del SAGRILAFT, deben reposar en documentos y registros que garanticen la
+integridad, oportunidad, confiabilidad, reserva y disponibilidad de la información.
+La información suministrada por la Contraparte, como parte del proceso de Debida
+Diligencia y Debida Diligencia Intensificada, así como el nombre de la persona que la
+verificó, deben quedar debidamente documentadas con fecha y hora, a fin de que se pueda
+acreditar la debida y oportuna diligencia por parte de la Empresa Obligada. De cualquier
+forma, el desarrollo e implementación del SAGRILAFT por parte de la Empresa Obligada
+deberá respetar las disposiciones legales en materia de protección de datos personales
+contenidas en las Leyes 1266 de 2008, 1581 de 2012, y demás normas aplicables.
+Asimismo, los soportes deberán conservarse de acuerdo con lo previsto en el artículo 28 de
+la Ley 962 de 2005, o la norma que la modifique o sustituya.
+5.6.
+
+Reportes de Operaciones Sospechosas y otros reportes a la UIAF
+5.6.1. Reporte de Operaciones Sospechosas (ROS)
+
+19
+
+Los países o jurisdicciones de alto riesgo según la definición de GAFI se encuentran publicados en el siguiente enlace:
+https://www.uiaf.gov.co/asuntos_internacionales/lista_paises_no_cooperantes_29282
+
+24/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+La Empresa Obligada deberá establecer herramientas y aplicativos, preferiblemente
+tecnológicos, que permitan identificar Operaciones Inusuales y Operaciones Sospechosas.
+Mediante la consolidación de información, estas plataformas tecnológicas deben generar
+indicadores y alertas a partir de los cuales se pueda inferir o advertir la existencia de
+situaciones que no se ajusten a las pautas de normalidad establecidas por la Empresa
+Obligadas para un sector, una industria o una clase de Contraparte.
+Una vez identificada y analizada una Operación Inusual o una Operación Sospechosa,
+deberán conservarse los soportes que dieron lugar a calificarla en una u otra categoría, de
+acuerdo con lo previsto en el artículo 28 de la Ley 962 de 2005, o la norma que la modifique
+o sustituya, sobre conservación de libros y papeles de comercio.
+Las Empresas Obligadas deberán reportarle a UIAF todas las Operaciones Sospechosas
+que detecten en el giro ordinario de sus negocios o actividades. El reporte deberá hacerse
+de manera inmediata y con naturaleza de ROS, a través del SIREL, conforme a las
+la forma en que se efectúa el reporte de operaciones
+deberán ser consultados en el sitio web www.uiaf.gov.co.
+El Oficial de Cumplimiento para el caso de las Empresas Obligadas deberá registrarse en el
+SIREL administrado por la UIAF. Para lo anterior, dicho funcionario deberá solicitar ante la
+UIAF, el usuario y contraseña a través de la plataforma SIREL.
+La presentación de un ROS no constituye una denuncia penal. Por lo tanto, para los efectos
+del reporte, no es necesario que la Empresa Obligada tenga certeza de que se trata de una
+actividad delictiva ni se requiere identificar el tipo penal o verificar que los recursos tengan
+origen ilícito. Sólo se requerirá que la Operación Sospechosa en los términos definidos en el
+presente Capítulo X. No obstante, por no tratarse de una denuncia penal, no se exime a la
+Empresa Obligada ni a sus administradores de la obligación de denuncia, cuando a ello
+hubiere lugar.
+La Empresa Obligada y el Oficial de Cumplimiento deberán garantizar la reserva del reporte
+de una Operación Sospechosa remitido a la UIAF, según lo previsto en la Ley 526 de 1999 y
+demás normas que las adicionen, modifiquen o sustituyan.
+En caso de que transcurra un trimestre sin que la Empresa Obligada realice un ROS, el
+Oficial de Cumplimiento, dentro de los diez (10) días calendario siguientes al vencimiento del
+respectivo trimestre, deberá presentar
+del SIREL, en la forma y términos que correspondan, de acuerdo con los instructivos de esa
+plataforma.
+5.6.2.
+
+Otros reportes a la UIAF
+
+De conformidad con el artículo 3º de la Ley 526 de 1999, la UIAF
+ralizará,
+sistematizará y analizará mediante actividades de inteligencia financiera la información
+recaudada, en desarrollo de lo previsto en los artículos 102 a 107 del Estatuto Orgánico del
+Sistema Financiero y sus normas remisorias o complementarias, las normas tributarias,
+aduaneras y demás información que conozcan las entidades del Estado o privadas que
+pueda resultar relevantes para el ejercicio de sus funciones. Dichas entidades estarán
+obligadas a suministrar de oficio o a solicitud de la Unidad, la información de que trata el
+6.
+6.1.
+
+Régimen de Medidas Mínimas
+Ámbito de aplicación Régimen de Medidas Mínimas
+
+Están obligadas a adoptar el Régimen de Medidas Mínimas las APNFD que pertenezcan a
+cualquiera de los sectores señalados, y conforme a los criterios mencionados, en el numeral
+
+25/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+4.3 del presente Capítulo X. Respecto de las Empresas inspeccionadas por la
+Superintendencia de Sociedades, no estarán obligadas en la medida en que se encuentren
+vigiladas por otra entidad especializada en razón de su actividad y que tenga facultades
+para impartir instrucciones en materia de LA/FT/FPADM.
+6.2.
+
+Contenido del Régimen de Medidas Mínimas
+
+Las Empresas Obligadas deberán tener en cuenta los riesgos relacionados con
+LA/FT/FPADM, para lo cual deben analizar la materialidad del riesgo, el tipo de negocio, la
+operación, el tamaño, las Áreas Geográficas y países donde opera y demás características
+particulares de su actividad, así como el perfil de sus Contrapartes.
+Para llevar a cabo tal proceso pueden apoyarse en los documentos y tipologías de
+LA/FT/FPADM aplicables al sector de su actividad, disponibles en los sitios de Internet de la
+UIAF-, GAFI, GAFILAT, la Organización de los Estados Americanos OEA-, la Oficina de las
+Naciones Unidas contra la Droga y el Delito UNODC, la Superintendencia de Sociedades,
+entre otros.
+El representante legal de la Empresa Obligada será el encargado y responsable de
+supervisar y verificar el cumplimiento del Régimen de Medidas Mínimas.
+Las Empresas Obligadas deberán adoptar las siguientes medidas mínimas:
+a. Instruir, a través de su representante legal, a los empleados y asociados sobre los
+Riesgos LA/FT/FPADM, por lo menos una (1) vez a al año;
+b. Comunicar y divulgar, a través del representante legal, las medidas mínimas que la
+Empresa adoptó para prevenir y mitigar los Riesgos LA/FT/FPADM;
+c. Identificar a la Contraparte y verificar su identidad utilizando documentos, datos o
+información confiable, de fuentes independientes;
+d. Identificar al Beneficiario Final de la Contraparte y tomar Medidas Razonables para
+verificar su identidad;
+e. Tomar Medidas Razonables para conocer la estructura de propiedad de la
+Contraparte con el fin de obtener el nombre y el número de identificación de los
+Beneficiarios Finales, haciendo uso de las herramientas de que disponga.
+f. Entender, y cuando corresponda, obtener información sobre el propósito y el carácter
+que se pretende dar a la relación comercial con la Contraparte;
+g. Realizar una Debida Diligencia continua de la relación comercial y examinar las
+transacciones llevadas a cabo a lo largo de esa relación para asegurar que sean
+consistentes con el conocimiento que tiene la Empresa Obligada sobre la
+Contraparte, su actividad comercial y el perfil de riesgo, incluyendo, cuando sea
+necesario, la fuente de los fondos;
+h. Disponer de registros y documentos de soporte de la ejecución e implementación del
+Régimen de Medidas Mínimas;
+i. Reportar ante la UIAF y poner en conocimiento de la Fiscalía General de la Nación,
+en el evento en que se identifique o verifique cualquier bien, Activo, Producto, fondo
+o derecho de titularidad a nombre o bajo la administración o control de cualquier
+país, persona o entidad incluida en las Listas Vinculantes. Para tal fin, deberá
+consultar permanentemente las Listas Vinculantes;
+j. Definir, adoptar y monitorear acciones y herramientas para la detección de
+Operaciones Inusuales y Operaciones Sospechosas, así como el reporte efectivo a
+la UIAF;
+k. Registrar al representante legal en el SIREL y responsabilizarlo para que sea el
+responsable de presentar a la UIAF los ROS y demás reportes señalados en el literal
+i, anterior; y
+l. Dar respuesta oportuna a los requerimientos de información emitidos por la
+Superintendencia de Sociedades, relacionados con la implementación y ejecución de
+este Régimen de Medidas Mínimas;
+
+26/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+Lo dispuesto para el SAGRILAFT puede servir como lineamiento para profundizar en el
+diseño que cada Empresa adopte bajo el presente Régimen de Medidas Mínimas.
+7. Consideraciones adicionales sobre el ámbito de aplicación
+La Superintendencia de Sociedades impartirá en cualquier tiempo la instrucción específica a
+cualquier Empresa sometida a su supervisión, que no sea una Empresa Obligada al
+SAGRILAFT o al Régimen de Medidas Mínimas, para que implemente las medidas
+señaladas en este Capítulo X, es decir que implemente el SAGRILAFT o el Régimen de
+Medidas Mínimas, conforme con sus instrucciones.
+Lo anterior, en ejercicio de la función de instruir a las entidades sujetas a su supervisión,
+sobre las medidas que deben adoptar para la prevención del Riesgo de LA/FT/FPADM,
+prevista en el numeral 28 del artículo 7º del Decreto 1736 de 2020.
+7.1.
+
+Plazo para el cumplimiento del Régimen de Autocontrol y Gestión del Riesgo
+Integral LA/FT/FPADM
+
+Las Empresas que adquieran la calidad de Empresas Obligadas al SAGRILAFT o al
+Régimen de Medidas Mínimas a partir del 31 de diciembre de cualquier año, deberán poner
+en marcha el SAGRILAFT o el Régimen de Medidas Mínimas, respectivamente, a más
+tardar el 31 de mayo del año siguiente al que adquirieron la calidad de Empresas Obligadas.
+En el caso de que al 31 de diciembre de cualquier año, una Empresa Obligada dejare de
+cumplir
+con
+los
+requisitos
+previstos
+en
+el
+numeral
+anterior,
+tal
+Empresa deberá cumplir con un periodo mínimo de permanencia adicional de: (i) tres (3)
+años a partir de dicha fecha, para el SAGRILAFT; y (ii) un (1) año a partir de dicha fecha,
+para el Régimen de Medidas Mínimas, de modo que seguirá estando obligada en los
+términos del presente Capítulo X, por tal periodo.
+7.2.
+
+Periodo de Transición para el Régimen de Autocontrol y Gestión del Riesgo
+Integral LA/FT/FPADM
+
+Las Empresas que a la fecha de expedición de la presente Circular se encuentren obligadas
+conforme a lo dispuesto por la Circular No. 100-000005 de 2017, deberán revisar y ajustar
+su Política LA/FT/FPADM y SAGRILAFT para verificar que se ajuste a lo dispuesto en este
+Capítulo X a más tardar el 31 de mayo de 2021.
+8. Sanciones
+El incumplimiento de las órdenes e instrucciones impartidas en el presente Capitulo X, dará
+lugar a las investigaciones administrativas que sean del caso y a la imposición de las
+sanciones administrativas pertinentes a la Empresa Obligada, el Oficial de Cumplimiento,
+revisor fiscal o a sus administradores, de conformidad con lo establecido en el numeral 3 del
+artículo 86 de la Ley 222 de 1995, sin perjuicio de las acciones que correspondan a otras
+autoridades.
+9. Recomendaciones para las Empresas no obligadas (como una buena práctica
+empresarial)
+La Superintendencia de Sociedades, como una buena práctica empresarial y de buen
+gobierno corporativo, recomienda a las Empresas sometidas a su supervisión, que no se
+encuentren obligadas a adoptar las indicaciones del presente Capítulo X, estudiar de forma
+específica si se encuentran expuestas a un Riesgo LA/FT/FPADM o riesgos asociados, de
+modo que las medidas acá señaladas se adopten de forma voluntaria como parte de la
+autogestión y control de los riesgos que corresponde a toda Empresa.
+
+27/27
+CIRCULAR EXTERNA
+2020-01-680161
+SUPERINTENDENCIA DE SOCIEDADES
+
+La puesta en marcha de lo aquí previsto permitirá prevenir y combatir adecuadamente los
+Riesgos LA/FT/FPADM, en beneficio de los inversionistas, administradores y demás
+empleados de la Empresa, y del orden público económico en general.
+
+
